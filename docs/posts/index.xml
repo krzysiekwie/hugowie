@@ -1,21 +1,21 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>All Posts - notes in hugo</title>
-        <link>krzysiekwie.github.io/hugonotes/posts/</link>
+        <link>http://krzysiekwie.github.io/hugonotes/posts/</link>
         <description>All Posts | notes in hugo</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 18 May 2020 18:36:41 &#43;0200</lastBuildDate><atom:link href="krzysiekwie.github.io/hugonotes/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 18 May 2020 18:36:41 &#43;0200</lastBuildDate><atom:link href="http://krzysiekwie.github.io/hugonotes/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Czego Sie Ucze</title>
-    <link>krzysiekwie.github.io/hugonotes/posts/czego-sie-ucze/</link>
+    <link>http://krzysiekwie.github.io/hugonotes/posts/czego-sie-ucze/</link>
     <pubDate>Mon, 18 May 2020 18:36:41 &#43;0200</pubDate>
     <author>Author</author>
-    <guid>krzysiekwie.github.io/hugonotes/posts/czego-sie-ucze/</guid>
+    <guid>http://krzysiekwie.github.io/hugonotes/posts/czego-sie-ucze/</guid>
     <description><![CDATA[At release, Stellaris received favorable reviews, with Metacritic giving it an overall score of 78/100.[16] A number of reviews emphasised the game&rsquo;s approachable interface and design, along with a highly immersive and almost RPG-like early game heavily influenced by the player&rsquo;s species design decisions, and also the novelty of the end-game crisis events.[16][who?][not specific enough to verify] The more mixed reviews also noted that the mid-game could be less satisfying, thanks to an overly simple diplomatic system and a somewhat passive AI.]]></description>
 </item><item>
     <title>Jak Sie Ucze</title>
-    <link>krzysiekwie.github.io/hugonotes/posts/jak-sie-ucze/</link>
+    <link>http://krzysiekwie.github.io/hugonotes/posts/jak-sie-ucze/</link>
     <pubDate>Mon, 18 May 2020 18:36:29 &#43;0200</pubDate>
     <author>Author</author>
-    <guid>krzysiekwie.github.io/hugonotes/posts/jak-sie-ucze/</guid>
+    <guid>http://krzysiekwie.github.io/hugonotes/posts/jak-sie-ucze/</guid>
     <description><![CDATA[At release, Stellaris received favorable reviews, with Metacritic giving it an overall score of 78/100.[16] A number of reviews emphasised the game&rsquo;s approachable interface and design, along with a highly immersive and almost RPG-like early game heavily influenced by the player&rsquo;s species design decisions, and also the novelty of the end-game crisis events.[16][who?][not specific enough to verify] The more mixed reviews also noted that the mid-game could be less satisfying, thanks to an overly simple diplomatic system and a somewhat passive AI.]]></description>
 </item></channel>
 </rss>

@@ -1,4 +1,4 @@
-baseURL = "krzysiekwie.github.io/hugonotes"
+baseURL = "https://krzysiekwie.github.io/hugonotes"
 languageCode = "en-us"
 title = "notes in hugo"
 theme = "LoveIt"
