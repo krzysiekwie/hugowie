@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - notes in hugo</title>
+        <link>https://krzysiekwie.github.io/hugonotes/posts/</link>
+        <description>All Posts | notes in hugo</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 18 May 2020 17:37:02 &#43;0200</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugonotes/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Początki Z Hugo</title>
+    <link>https://krzysiekwie.github.io/hugonotes/posts/poczatki-z-hugo/</link>
+    <pubDate>Mon, 18 May 2020 17:37:02 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugonotes/posts/poczatki-z-hugo/</guid>
+    <description><![CDATA[Wreszcie skusiłem się na hugo zamiast jekylla. Całe to &ldquo;jest napisany w go&rdquo; powstrzymywało mnie już wystarczająco długo. Zresztą okazuje się że chocolatey instaluje hugo bez problemu, github pages hostuje zgodnie z (instrukcją)[https://gohugo.io/hosting-and-deployment/hosting-on-github/]]]></description>
+</item></channel>
+</rss>
