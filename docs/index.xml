@@ -9,7 +9,6 @@
     <pubDate>Mon, 18 May 2020 17:37:02 &#43;0200</pubDate>
     <author>Author</author>
     <guid>https://krzysiekwie.github.io/hugonotes/posts/poczatki-z-hugo/</guid>
-    <description><![CDATA[Wreszcie skusiłem się na hugo zamiast jekylla. Całe to &ldquo;jest napisany w go&rdquo; powstrzymywało mnie już wystarczająco długo. Zresztą okazuje się że chocolatey instaluje hugo bez problemu, github pages hostuje zgodnie z (instrukcją)[https://gohugo.io/hosting-and-deployment/hosting-on-github/] i jednolinijkowym skryptem
-hugocd public &amp;&amp; git add --all &amp;&amp; git commit -m &quot;Publishing to gh-pages&quot; &amp;&amp; cd ..i zrobione?]]></description>
+    <description><![CDATA[Wreszcie skusiłem się na hugo zamiast jekylla. Całe to &ldquo;jest napisany w go&rdquo; powstrzymywało mnie już wystarczająco długo. Zresztą okazuje się że chocolatey instaluje hugo bez problemu, github pages hostuje zgodnie z (instrukcją)[https://gohugo.io/hosting-and-deployment/hosting-on-github/]]]></description>
 </item></channel>
 </rss>
