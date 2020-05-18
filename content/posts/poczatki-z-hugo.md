@@ -11,29 +11,30 @@ szybkim skryptem z gałęzią gh-pages w katalogu /public
 ```
 #!/bin/sh
 
+# sprawdzenie czy nie ma niezatwierdzonych zmian
 if [ "`git status -s`" ]
 then
-    echo "The working directory is dirty. Please commit any pending changes."
+    echo "Katalog roboczy nie jest czysty. Zatwierdź zmiany (commit)"
     exit 1;
 fi
 
-echo "Deleting old publication"
+echo "Usuwanie poprzedniej wersji"
 rm -rf public
 mkdir public
 git worktree prune
 rm -rf .git/worktrees/public/
 
-echo "Checking out gh-pages branch into public"
+echo "Łączenie gałęzi gh-pages z katalogiem public"
 git worktree add -B gh-pages public origin/gh-pages
 
-echo "Removing existing files"
+echo "Usuwanie plików z katalogu public"
 rm -rf public/*
 
-echo "Generating site"
+echo "Generowanie strony"
 hugo
 
-echo "Updating gh-pages branch"
-cd public && git add --all && git commit -m "Publishing to gh-pages (script)"
+echo "Aktualizacja gałęzi gh-pages"
+cd public && git add --all && git commit -m "Publishing to gh-pages (via publish-gh-pages.sh)"
 
 # push all
 git push --all
