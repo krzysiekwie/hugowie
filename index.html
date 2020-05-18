@@ -66,7 +66,9 @@
         <a href="/hugonotes/posts/poczatki-z-hugo/">Początki Z Hugo</a>
     </h1><div class="post-meta"><span class="post-author"><a href="/hugonotes/" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw"></i>Author</a></span>&nbsp;<span class="post-publish">
             published on&nbsp;<time datetime=2020-05-18>2020-05-18</time>
-        </span></div><div class="content">Wreszcie skusiłem się na hugo zamiast jekylla. Całe to &ldquo;jest napisany w go&rdquo; powstrzymywało mnie już wystarczająco długo. Zresztą okazuje się że chocolatey instaluje hugo bez problemu, github pages hostuje zgodnie z (instrukcją)[https://gohugo.io/hosting-and-deployment/hosting-on-github/]</div><div class="post-footer">
+        </span></div><div class="content">Wreszcie skusiłem się na hugo zamiast jekylla. Całe to &ldquo;jest napisany w go&rdquo; powstrzymywało mnie już wystarczająco długo. Zresztą okazuje się że chocolatey instaluje hugo bez problemu, github pages hostuje zgodnie z (instrukcją)[https://gohugo.io/hosting-and-deployment/hosting-on-github/]
+szybkim skryptem z gałęzią gh-pages w katalogu /public
+#!/bin/sh# sprawdzenie czy nie ma niezatwierdzonych zmianif [ &quot;`git status -s`&quot; ]thenecho &quot;Katalog roboczy nie jest czysty. Zatwierdź zmiany (commit)&quot;exit 1;fiecho &quot;Usuwanie poprzedniej wersji&quot;rm -rf publicmkdir publicgit worktree prunerm -rf .</div><div class="post-footer">
         <a href="/hugonotes/posts/poczatki-z-hugo/">Read More</a></div>
 </article>
 </div></div>

@@ -6,14 +6,18 @@
         <meta name="robots" content="noodp" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
         <title>Początki Z Hugo - notes in hugo</title><meta name="Description" content=""><meta property="og:title" content="Początki Z Hugo" />
-<meta property="og:description" content="Wreszcie skusiłem się na hugo zamiast jekylla. Całe to &ldquo;jest napisany w go&rdquo; powstrzymywało mnie już wystarczająco długo. Zresztą okazuje się że chocolatey instaluje hugo bez problemu, github pages hostuje zgodnie z (instrukcją)[https://gohugo.io/hosting-and-deployment/hosting-on-github/]" />
+<meta property="og:description" content="Wreszcie skusiłem się na hugo zamiast jekylla. Całe to &ldquo;jest napisany w go&rdquo; powstrzymywało mnie już wystarczająco długo. Zresztą okazuje się że chocolatey instaluje hugo bez problemu, github pages hostuje zgodnie z (instrukcją)[https://gohugo.io/hosting-and-deployment/hosting-on-github/]
+szybkim skryptem z gałęzią gh-pages w katalogu /public
+#!/bin/sh# sprawdzenie czy nie ma niezatwierdzonych zmianif [ &quot;`git status -s`&quot; ]thenecho &quot;Katalog roboczy nie jest czysty. Zatwierdź zmiany (commit)&quot;exit 1;fiecho &quot;Usuwanie poprzedniej wersji&quot;rm -rf publicmkdir publicgit worktree prunerm -rf ." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://krzysiekwie.github.io/hugonotes/posts/poczatki-z-hugo/" />
 <meta property="article:published_time" content="2020-05-18T17:37:02+02:00" />
 <meta property="article:modified_time" content="2020-05-18T17:37:02+02:00" />
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Początki Z Hugo"/>
-<meta name="twitter:description" content="Wreszcie skusiłem się na hugo zamiast jekylla. Całe to &ldquo;jest napisany w go&rdquo; powstrzymywało mnie już wystarczająco długo. Zresztą okazuje się że chocolatey instaluje hugo bez problemu, github pages hostuje zgodnie z (instrukcją)[https://gohugo.io/hosting-and-deployment/hosting-on-github/]"/>
+<meta name="twitter:description" content="Wreszcie skusiłem się na hugo zamiast jekylla. Całe to &ldquo;jest napisany w go&rdquo; powstrzymywało mnie już wystarczająco długo. Zresztą okazuje się że chocolatey instaluje hugo bez problemu, github pages hostuje zgodnie z (instrukcją)[https://gohugo.io/hosting-and-deployment/hosting-on-github/]
+szybkim skryptem z gałęzią gh-pages w katalogu /public
+#!/bin/sh# sprawdzenie czy nie ma niezatwierdzonych zmianif [ &quot;`git status -s`&quot; ]thenecho &quot;Katalog roboczy nie jest czysty. Zatwierdź zmiany (commit)&quot;exit 1;fiecho &quot;Usuwanie poprzedniej wersji&quot;rm -rf publicmkdir publicgit worktree prunerm -rf ."/>
 <meta name="application-name" content="notes in hugo">
 <meta name="apple-mobile-web-app-title" content="notes in hugo"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -26,7 +30,7 @@
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https:\/\/krzysiekwie.github.io\/hugonotes\/posts\/poczatki-z-hugo\/"
-        },"genre": "posts","wordcount":  33 ,
+        },"genre": "posts","wordcount":  135 ,
         "url": "https:\/\/krzysiekwie.github.io\/hugonotes\/posts\/poczatki-z-hugo\/","datePublished": "2020-05-18T17:37:02+02:00","dateModified": "2020-05-18T17:37:02+02:00","author": {
                 "@type": "Person",
                 "name": "Author"
@@ -75,7 +79,7 @@
         </div><article class="page single"><h1 class="single-title animated flipInX">Początki Z Hugo</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="/hugonotes/" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw"></i>Author</a></span></div>
             <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime=2020-05-18>2020-05-18</time>&nbsp;
-                <i class="fas fa-pencil-alt fa-fw"></i>&nbsp;about 33 words&nbsp;
+                <i class="fas fa-pencil-alt fa-fw"></i>&nbsp;about 135 words&nbsp;
                 <i class="far fa-clock fa-fw"></i>&nbsp;1 min&nbsp;</div>
         </div><div class="details toc" id="toc-static">
                 <div class="details-summary toc-title">
@@ -84,7 +88,37 @@
                 </div>
                 <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents"></nav></div>
             </div><div class="content" id="content"><p>Wreszcie skusiłem się na hugo zamiast jekylla. Całe to &ldquo;jest napisany w go&rdquo; powstrzymywało mnie już wystarczająco długo. Zresztą okazuje się że chocolatey instaluje hugo bez problemu, github pages hostuje zgodnie z (instrukcją)[https://gohugo.io/hosting-and-deployment/hosting-on-github/]</p>
-</div><div class="post-footer" id="post-footer">
+<p>szybkim skryptem z gałęzią gh-pages w katalogu /public</p>
+<pre><code>#!/bin/sh
+
+# sprawdzenie czy nie ma niezatwierdzonych zmian
+if [ &quot;`git status -s`&quot; ]
+then
+    echo &quot;Katalog roboczy nie jest czysty. Zatwierdź zmiany (commit)&quot;
+    exit 1;
+fi
+
+echo &quot;Usuwanie poprzedniej wersji&quot;
+rm -rf public
+mkdir public
+git worktree prune
+rm -rf .git/worktrees/public/
+
+echo &quot;Łączenie gałęzi gh-pages z katalogiem public&quot;
+git worktree add -B gh-pages public origin/gh-pages
+
+echo &quot;Usuwanie plików z katalogu public&quot;
+rm -rf public/*
+
+echo &quot;Generowanie strony&quot;
+hugo
+
+echo &quot;Aktualizacja gałęzi gh-pages&quot;
+cd public &amp;&amp; git add --all &amp;&amp; git commit -m &quot;Publishing to gh-pages (via publish-gh-pages.sh)&quot;
+
+# push all
+git push --all
+</code></pre></div><div class="post-footer" id="post-footer">
     <div class="post-info">
         <div class="post-info-line">
             <div class="post-info-mod">
