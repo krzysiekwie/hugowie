@@ -2,8 +2,13 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://krzysiekwie.github.io/hugonotes/tags/bash/</loc><lastmod>2020-05-18T17:37:02&#43;02:00</lastmod></url><url>
+            <loc>https://krzysiekwie.github.io/hugonotes/categories/</loc><lastmod>2020-05-18T17:37:02&#43;02:00</lastmod></url><url>
+            <loc>https://krzysiekwie.github.io/hugonotes/tags/hugo/</loc><lastmod>2020-05-18T17:37:02&#43;02:00</lastmod></url><url>
+            <loc>https://krzysiekwie.github.io/hugonotes/categories/hugo/</loc><lastmod>2020-05-18T17:37:02&#43;02:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugonotes/</loc><lastmod>2020-05-18T17:37:02&#43;02:00</lastmod></url><url>
-            <loc>https://krzysiekwie.github.io/hugonotes/posts/poczatki-z-hugo/</loc><lastmod>2020-05-18T17:37:02&#43;02:00</lastmod></url><url>
+            <loc>https://krzysiekwie.github.io/hugonotes/categories/o-stronie/</loc><lastmod>2020-05-18T17:37:02&#43;02:00</lastmod></url><url>
+            <loc>https://krzysiekwie.github.io/hugonotes/tags/organizacja/</loc><lastmod>2020-05-18T17:37:02&#43;02:00</lastmod></url><url>
+            <loc>https://krzysiekwie.github.io/hugonotes/posts/hugo-start/</loc><lastmod>2020-05-18T17:37:02&#43;02:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugonotes/posts/</loc><lastmod>2020-05-18T17:37:02&#43;02:00</lastmod></url><url>
-            <loc>https://krzysiekwie.github.io/hugonotes/categories/</loc></url><url>
-            <loc>https://krzysiekwie.github.io/hugonotes/tags/</loc></url></urlset>
+            <loc>https://krzysiekwie.github.io/hugonotes/tags/</loc><lastmod>2020-05-18T17:37:02&#43;02:00</lastmod></url></urlset>
