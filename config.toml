@@ -511,7 +511,8 @@ theme = "LoveIt"
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
     name = "Posts"
-    url = "/posts/"
+    # url = "/posts/"
+    url = "https:/krzysiekwie.github.io/hugonotes/posts/"
     # title will be shown when you hover on this menu link
     title = ""
     weight = 1
@@ -520,7 +521,8 @@ theme = "LoveIt"
     pre = ""
     post = ""
     name = "Tags"
-    url = "/tags/"
+    url = "https:/krzysiekwie.github.io/hugonotes/tags/"
+    # url = "/tags/"
     title = ""
     weight = 2
   [[menu.main]]
@@ -528,6 +530,6 @@ theme = "LoveIt"
     pre = ""
     post = ""
     name = "Categories"
-    url = "/categories/"
+    url = "../categories/"
     title = ""
     weight = 3
