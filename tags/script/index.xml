@@ -1,0 +1,22 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>script - Tag - notes in hugo</title>
+        <link>https://krzysiekwie.github.io/hugonotes/tags/script/</link>
+        <description>script - Tag - notes in hugo</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 10 Apr 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugonotes/tags/script/" rel="self" type="application/rss+xml" /><item>
+    <title>Quick and dirty Python scripts</title>
+    <link>https://krzysiekwie.github.io/hugonotes/posts/python-scripts-marketing/</link>
+    <pubDate>Fri, 10 Apr 2020 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugonotes/posts/python-scripts-marketing/</guid>
+    <description><![CDATA[Couple small scripts for Marketing Analytics calculations
+ Customer Lifetime Value Break Even Units total net profit  in Marketing experiments]]></description>
+</item><item>
+    <title>Ruby - hello world plus</title>
+    <link>https://krzysiekwie.github.io/hugonotes/posts/ruby-web-scrape/</link>
+    <pubDate>Fri, 10 Apr 2020 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugonotes/posts/ruby-web-scrape/</guid>
+    <description><![CDATA[Ruby chciałem wypróbować od kiedy zrobiło się o nim głośno na podcastach TWiT, a potem jeszcze bardziej kiedy przeczytałem Codex. Ale nie było okazji i dopiero dzisiaj wróciłem do tematu. Jak na początek i pierwszy raz - baprawdę szybko poszło. Mój pierwszy w życiu skrypt w Ruby (oparty na dwóch tutorialach) napisałem zanim na dobre zdecydowałem czy lepiej będzie zainstalować Ruby z rbenv czy rvm.]]></description>
+</item></channel>
+</rss>

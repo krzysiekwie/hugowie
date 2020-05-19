@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>marketing - Tag - notes in hugo</title>
+        <link>https://krzysiekwie.github.io/hugonotes/tags/marketing/</link>
+        <description>marketing - Tag - notes in hugo</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 10 Apr 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugonotes/tags/marketing/" rel="self" type="application/rss+xml" /><item>
+    <title>Quick and dirty Python scripts</title>
+    <link>https://krzysiekwie.github.io/hugonotes/posts/python-scripts-marketing/</link>
+    <pubDate>Fri, 10 Apr 2020 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugonotes/posts/python-scripts-marketing/</guid>
+    <description><![CDATA[Couple small scripts for Marketing Analytics calculations
+ Customer Lifetime Value Break Even Units total net profit  in Marketing experiments]]></description>
+</item></channel>
+</rss>

@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="noodp" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+        <title>notatki z git - notes in hugo</title><meta name="Description" content="notatki z kursu o git na Courserze"><meta property="og:title" content="notatki z git" />
+<meta property="og:description" content="notatki z kursu o git na Courserze" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://krzysiekwie.github.io/hugonotes/posts/notes-on-git/" />
+<meta property="og:image" content="https://krzysiekwie.github.io/logo.png"/>
+<meta property="article:published_time" content="2020-03-03T00:00:00+00:00" />
+<meta property="article:modified_time" content="2020-03-03T00:00:00+00:00" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://krzysiekwie.github.io/logo.png"/>
+
+<meta name="twitter:title" content="notatki z git"/>
+<meta name="twitter:description" content="notatki z kursu o git na Courserze"/>
+<meta name="application-name" content="LoveIt">
+<meta name="apple-mobile-web-app-title" content="LoveIt"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://krzysiekwie.github.io/hugonotes/posts/notes-on-git/" /><link rel="next" href="https://krzysiekwie.github.io/hugonotes/posts/python-list-compregension/" /><link rel="stylesheet" href="/hugonotes/lib/normalize/normalize.min.css"><link rel="stylesheet" href="/hugonotes/css/style.min.css"><link rel="stylesheet" href="/hugonotes/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/hugonotes/lib/animate/animate.min.css"><script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "headline": "notatki z git",
+        "inLanguage": "en-us",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https:\/\/krzysiekwie.github.io\/hugonotes\/posts\/notes-on-git\/"
+        },"image": {
+                "@type": "ImageObject",
+                "url": "https:\/\/krzysiekwie.github.io\/hugonotes\/cover.png",
+                "width":  800 ,
+                "height":  600 
+            },"genre": "posts","keywords": "git, vcs, coursera","wordcount":  719 ,
+        "url": "https:\/\/krzysiekwie.github.io\/hugonotes\/posts\/notes-on-git\/","datePublished": "2020-03-03T00:00:00+00:00","dateModified": "2020-03-03T00:00:00+00:00","publisher": {
+                "@type": "Organization",
+                "name": "xxxx",
+                "logo": {
+                "@type": "ImageObject",
+                "url": "https:\/\/krzysiekwie.github.io\/hugonotes\/logo.png",
+                "width":  127 ,
+                "height":  40 
+                }
+            },"author": {
+                "@type": "Person",
+                "name": "krzwierz79"
+            },"description": "notatki z kursu o git na Courserze"
+    }
+    </script></head>
+    <body header-desktop="fixed" header-mobile="auto"><script type="text/javascript">(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('auto' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'auto' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+
+        <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
+    <div class="header-wrapper">
+        <div class="header-title">
+            <a href="/hugonotes/" title="notes in hugo"></a>
+        </div>
+        <div class="menu">
+            <div class="menu-inner"><a class="menu-item" href="/hugonotes/posts/"> Posts </a><a class="menu-item" href="/hugonotes/tags/"> Tags </a><a class="menu-item" href="/hugonotes/categories/"> Categories </a><span class="menu-item delimiter"></span><span class="menu-item search" id="search-desktop">
+                        <input type="text" placeholder="Search titles or contents..." id="search-input-desktop">
+                        <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-desktop" title="Search">
+                            <i class="fas fa-search fa-fw"></i>
+                        </a>
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-desktop" title="Clear">
+                            <i class="fas fa-times-circle fa-fw"></i>
+                        </a>
+                        <span class="search-button search-loading" id="search-loading-desktop">
+                            <i class="fas fa-spinner fa-fw fa-spin"></i>
+                        </span>
+                    </span><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+                    <i class="fas fa-adjust fa-fw"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</header><header class="mobile" id="header-mobile">
+    <div class="header-container">
+        <div class="header-wrapper">
+            <div class="header-title">
+                <a href="/hugonotes/" title="notes in hugo"></a>
+            </div>
+            <div class="menu-toggle" id="menu-toggle-mobile">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="menu" id="menu-mobile"><div class="search-wrapper">
+                    <div class="search mobile" id="search-mobile">
+                        <input type="text" placeholder="Search titles or contents..." id="search-input-mobile">
+                        <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-mobile" title="Search">
+                            <i class="fas fa-search fa-fw"></i>
+                        </a>
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-mobile" title="Clear">
+                            <i class="fas fa-times-circle fa-fw"></i>
+                        </a>
+                        <span class="search-button search-loading" id="search-loading-mobile">
+                            <i class="fas fa-spinner fa-fw fa-spin"></i>
+                        </span>
+                    </div>
+                    <a href="javascript:void(0);" class="search-cancel" id="search-cancel-mobile">
+                        Cancel
+                    </a>
+                </div><a class="menu-item" href="/hugonotes/posts/" title="">Posts</a><a class="menu-item" href="/hugonotes/tags/" title="">Tags</a><a class="menu-item" href="/hugonotes/categories/" title="">Categories</a><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+                <i class="fas fa-adjust fa-fw"></i>
+            </a></div>
+    </div>
+</header>
+<div class="search-dropdown desktop">
+    <div id="search-dropdown-desktop"></div>
+</div>
+<div class="search-dropdown mobile">
+    <div id="search-dropdown-mobile"></div>
+</div>
+<main class="main">
+                <div class="container"><div class="toc" id="toc-auto">
+            <h2 class="toc-title">Contents</h2>
+            <div class="toc-content" id="toc-content-auto"></div>
+        </div><article class="page single"><h1 class="single-title animated flipInX">notatki z git</h1><div class="post-meta">
+            <div class="post-meta-line"><span class="post-author"><a href="/hugonotes/" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw"></i>krzwierz79</a></span>&nbsp;
+                    <span class="post-category">included in<a href="/hugonotes/categories/kursy/">
+                                <i class="far fa-folder fa-fw"></i>kursy
+                            </a></span></div>
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime=2020-03-03>2020-03-03</time>&nbsp;
+                <i class="fas fa-pencil-alt fa-fw"></i>&nbsp;about 719 words&nbsp;
+                <i class="far fa-clock fa-fw"></i>&nbsp;4 min&nbsp;</div>
+        </div><div class="details toc" id="toc-static">
+                <div class="details-summary toc-title">
+                    <span>Contents</span>
+                    <span><i class="details-icon fas fa-angle-right"></i></span>
+                </div>
+                <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
+  <ul>
+    <li><a href="#on-setting-new">on setting new</a></li>
+    <li><a href="#bez-git">bez git</a></li>
+    <li><a href="#command-explanation--link">Command Explanation &amp; Link</a></li>
+    <li><a href="#gitignore-files">.gitignore files</a></li>
+    <li><a href="#a-few-common-examples">A few common examples</a></li>
+    <li><a href="#more-on-git">more on git</a></li>
+    <li><a href="#git-best-practices-for-collaboration">Git Best practices for Collaboration</a></li>
+  </ul>
+</nav></div>
+            </div><div class="content" id="content"><h1 id="notatki-z-kursu-o-git-na-courserze">notatki z kursu o git na Courserze</h1>
+<p>Większość materiałów pochodzi z Coursery</p>
+<h2 id="on-setting-new">on setting new</h2>
+<p><a href="https://help.github.com/articles/keeping-your-email-address-private/" target="_blank" rel="noopener noreffer">email and privacy</a></p>
+<p><code>git init</code>
+<code>git clone URL</code></p>
+<p><code>git init</code> creates .git/ (git directory) in the current directory, the &ldquo;working tree&rdquo; is the current/parent directory that contains .git/</p>
+<p>The git directory contains all the changes and their history and the working tree contains the current versions of the files.</p>
+<p>The git directory acts as a database for all the changes tracked in Git and the working tree acts as a sandbox where we can edit the current versions of the files.</p>
+<p><code>git add filename</code>
+adds to the staging area (a file) - an index of what will go to the next commit</p>
+<p><code>git status</code> current info
+<code>git log</code> histor of commits</p>
+<p><code>git commit -m 'Commit message'</code>
+multiline are ususally ok -first as topic</p>
+<p><code>git commit -a -m</code>
+commit previously added skipping staging</p>
+<p>and after a blank one more detailed description
+could follow in up to 72 chars ususally
+because <code>git log</code> commend will not do any line wrapping.</p>
+<p>tracking lifecycle
+new files start as untracked</p>
+<p>git add new_file
+puts new_file in the staging area (skips modified for new files)</p>
+<p>tracked: modified &gt; staged &gt; committed</p>
+<p><code>git diff filename</code> for diff-like compare</p>
+<h2 id="bez-git">bez git</h2>
+<p>without git there&rsquo;s still:</p>
+<p><code>create diff file</code></p>
+<p><code>diff -u old_file new_ file &gt; change.diff</code>
+and
+<code>patch old_file &lt; change.diff</code> to merge diff with original file</p>
+<h2 id="command-explanation--link">Command Explanation &amp; Link</h2>
+<p>git commit -a Stages files automatically
+git log -p Produces patch text
+git show Shows various objects
+git diff Is similar to the Linux <code>diff</code> command, and can show the differences in various commits
+git diff &ndash;staged An alias to &ndash;cached, this will show all staged files compared to the named commit
+git add -p Allows a user to interactively review patches to add to the current commit
+git mv Similar to the Linux <code>mv</code> command, this moves a file
+git rm Similar to the Linux <code>rm</code> command, this deletes, or removes a file
+There are many useful git cheatsheets online as well. Please take some time to research and study a few, such as <a href="https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf" target="_blank" rel="noopener noreffer">this one</a>.</p>
+<h2 id="gitignore-files">.gitignore files</h2>
+<p>.gitignore files are used to tell the git tool to intentionally ignore some files in a given Git repository. For example, this can be useful for configuration files or metadata files that a user may not want to check into the master branch. Check out more at: <a href="https://git-scm.com/docs/gitignore">https://git-scm.com/docs/gitignore</a>.</p>
+<h2 id="a-few-common-examples">A few common examples</h2>
+<p>of file patterns to exclude can be found <a href="https://gist.github.com/octocat/9257657" target="_blank" rel="noopener noreffer">here</a>.</p>
+<h2 id="more-on-git">more on git</h2>
+<p>git checkout is effectively used to switch branches.</p>
+<p>git reset basically resets the repo, throwing away some changes.</p>
+<p>There are some other useful articles online, which discuss more aggressive approaches to resetting the repo.</p>
+<p>git commit &ndash;amend is used to make changes to commits after-the-fact, which can be useful for making notes about a given commit.</p>
+<p>git revert makes a new commit which effectively rolls back a previous commit. Itâ€™s a bit like an undo command.</p>
+<p>There are a few ways you can rollback commits in Git.</p>
+<p>There are some interesting considerations about how git object data is stored, such as the usage of sha-1.</p>
+<p>Feel free to read more here:</p>
+<p><a href="https://en.wikipedia.org/wiki/SHA-1" target="_blank" rel="noopener noreffer">sha-1</a>
+<a href="https://github.blog/2017-03-20-sha-1-collision-detection-on-github-com/" target="_blank" rel="noopener noreffer">sha-1 collision detection on github.com</a></p>
+<p>Command Explanation &amp; Link
+<code>git branch</code> Used to manage branches
+<code>git branch name</code> Creates the branch
+<code>git branch -d name</code> Deletes the branch
+<code>git branch -D name</code> Forcibly deletes the branch
+<code>git checkout branch</code> Switches to a branch.
+<code>git checkout -b branch</code> Creates a new branch and switches to it.
+<code>git merge branch</code> Merge joins branches together.
+<code>git merge --abort</code> If there are merge conflicts (meaning files are incompatible), &ndash;abort can be used to abort the merge action.
+<code>git log --graph --oneline</code> This shows a summarized view of the commit history for a repo.</p>
+<h2 id="git-best-practices-for-collaboration">Git Best practices for Collaboration</h2>
+<p>Always sync branches before starting new work</p>
+<p>Make small commits for separate changes</p>
+<p>Work on big changes on a separate branch</p>
+<p>Merge master onto feature often to reduce conflicts</p>
+<p>With two or more versions use master for latest and a separate branch for stable version</p>
+<p>Do not rebase changes that were pushed to remote repos</p>
+<p>Write informative commit messages</p>
+<p>on merge conflict: disable all added content, test that source works, then re-add step by step</p>
+<p><a href="https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts" target="_blank" rel="noopener noreffer">conflicts</a></p>
+<p><a href="https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line" target="_blank" rel="noopener noreffer">conflicts in cli</a></p>
+<p><a href="https://git-scm.com/book/en/v2/Git-Branching-Rebasing" target="_blank" rel="noopener noreffer">rebase</a></p>
+<p><a href="https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History" target="_blank" rel="noopener noreffer">more on rebase</a></p>
+</div><div class="post-footer" id="post-footer">
+    <div class="post-info">
+        <div class="post-info-line">
+            <div class="post-info-mod">
+                <span>The article was updated on 2020-03-03</span>
+            </div>
+            <div class="post-info-license"></div>
+        </div>
+        <div class="post-info-line">
+            <div class="post-info-md"></div>
+            <div class="post-info-share">
+                <span><a href="javascript:void(0);" title="Share on Twitter" data-sharer="twitter" data-url="https://krzysiekwie.github.io/hugonotes/posts/notes-on-git/" data-title="notatki z git" data-via="xxxx" data-hashtags="git,vcs,coursera"><i class="fab fa-twitter fa-fw"></i></a><a href="javascript:void(0);" title="Share on Facebook" data-sharer="facebook" data-url="https://krzysiekwie.github.io/hugonotes/posts/notes-on-git/" data-hashtag="git"><i class="fab fa-facebook-square fa-fw"></i></a><a href="javascript:void(0);" title="Share on WhatsApp" data-sharer="whatsapp" data-url="https://krzysiekwie.github.io/hugonotes/posts/notes-on-git/" data-title="notatki z git" data-web><i class="fab fa-whatsapp fa-fw"></i></a><a href="javascript:void(0);" title="Share on Line" data-sharer="line" data-url="https://krzysiekwie.github.io/hugonotes/posts/notes-on-git/" data-title="notatki z git"><i data-svg-src="/hugonotes/lib/simple-icons/icons/line.min.svg"></i></a><a href="javascript:void(0);" title="Share on 微博" data-sharer="weibo" data-url="https://krzysiekwie.github.io/hugonotes/posts/notes-on-git/" data-title="notatki z git"><i class="fab fa-weibo fa-fw"></i></a><a href="javascript:void(0);" title="Share on Myspace" data-sharer="myspace" data-url="https://krzysiekwie.github.io/hugonotes/posts/notes-on-git/" data-title="notatki z git" data-description="notatki z kursu o git na Courserze"><i data-svg-src="/hugonotes/lib/simple-icons/icons/myspace.min.svg"></i></a><a href="javascript:void(0);" title="Share on Blogger" data-sharer="blogger" data-url="https://krzysiekwie.github.io/hugonotes/posts/notes-on-git/" data-title="notatki z git" data-description="notatki z kursu o git na Courserze"><i class="fab fa-blogger fa-fw"></i></a><a href="javascript:void(0);" title="Share on Evernote" data-sharer="evernote" data-url="https://krzysiekwie.github.io/hugonotes/posts/notes-on-git/" data-title="notatki z git"><i class="fab fa-evernote fa-fw"></i></a></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="post-info-more">
+        <section class="post-tags"><i class="fas fa-tags fa-fw"></i>&nbsp;<a href="/hugonotes/tags/git/">git</a>,&nbsp;<a href="/hugonotes/tags/vcs/">vcs</a>,&nbsp;<a href="/hugonotes/tags/coursera/">coursera</a></section>
+        <section>
+            <span><a href="javascript:void(0);" onclick="window.history.back();">Back</a></span>&nbsp;|&nbsp;<span><a href="/hugonotes/">Home</a></span>
+        </section>
+    </div>
+
+    <div class="post-nav">
+            <a href="/hugonotes/posts/python-list-compregension/" class="next" rel="next" title="Python: list comprehension">Python: list comprehension<i class="fas fa-angle-right fa-fw"></i></a></div>
+</div>
+<div id="comments"></div></article></div>
+            </main><footer class="footer">
+        <div class="footer-container"><div class="footer-line">Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer" title="Hugo 0.70.0">Hugo</a> | Theme - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="noopener noreffer" title="LoveIt 0.2.8"><i class="far fa-kiss-wink-heart fa-fw"></i> LoveIt</a>
+                </div><div class="footer-line"><i class="far fa-copyright fa-fw"></i><span itemprop="copyrightYear">2019 - 2020</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/hugonotes/" target="_blank">krzwierz79</a></span>&nbsp;|&nbsp;<span class="license"><a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div>
+        </div>
+    </footer></div>
+
+        <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="Back to Top">
+                <i class="fas fa-arrow-up fa-fw"></i>
+            </a><a href="#" id="view-comments" class="fixed-button" title="View Comments">
+                <i class="fas fa-comment fa-fw"></i>
+            </a>
+        </div><link rel="stylesheet" href="/hugonotes/lib/katex/katex.min.css"><link rel="stylesheet" href="/hugonotes/lib/katex/copy-tex.min.css"><link rel="stylesheet" href="/hugonotes/lib/cookieconsent/cookieconsent.min.css"><script type="text/javascript" src="/hugonotes/lib/smooth-scroll/smooth-scroll.min.js"></script><script type="text/javascript" src="/hugonotes/lib/autocomplete/autocomplete.min.js"></script><script type="text/javascript" src="/hugonotes/lib/lunr/lunr.min.js"></script><script type="text/javascript" src="/hugonotes/lib/lazysizes/lazysizes.min.js"></script><script type="text/javascript" src="/hugonotes/lib/clipboard/clipboard.min.js"></script><script type="text/javascript" src="/hugonotes/lib/sharer/sharer.min.js"></script><script type="text/javascript" src="/hugonotes/lib/katex/katex.min.js"></script><script type="text/javascript" src="/hugonotes/lib/katex/auto-render.min.js"></script><script type="text/javascript" src="/hugonotes/lib/katex/copy-tex.min.js"></script><script type="text/javascript" src="/hugonotes/lib/katex/mhchem.min.js"></script><script type="text/javascript" src="/hugonotes/lib/cookieconsent/cookieconsent.min.js"></script><script type="text/javascript">window.config={"code":{"copyTitle":"Copy to clipboard","maxShownLines":10},"comment":{},"cookieconsent":{"content":{"dismiss":"Got it!","link":"Learn more","message":"This website uses Cookies to improve your experience."},"enable":true,"palette":{"button":{"background":"#f0f0f0"},"popup":{"background":"#1aa3ff"}},"theme":"edgeless"},"math":{"delimiters":[{"display":true,"left":"$$","right":"$$"},{"display":true,"left":"\\[","right":"\\]"},{"display":false,"left":"$","right":"$"},{"display":false,"left":"\\(","right":"\\)"}],"strict":false},"search":{"highlightTag":"em","maxResultLength":10,"noResultsFound":"No results found","snippetLength":30}};</script><script type="text/javascript" src="/hugonotes/js/theme.min.js"></script></body>
+</html>

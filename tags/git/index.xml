@@ -1,0 +1,19 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>git - Tag - notes in hugo</title>
+        <link>https://krzysiekwie.github.io/hugonotes/tags/git/</link>
+        <description>git - Tag - notes in hugo</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 03 Mar 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugonotes/tags/git/" rel="self" type="application/rss+xml" /><item>
+    <title>notatki z git</title>
+    <link>https://krzysiekwie.github.io/hugonotes/posts/notes-on-git/</link>
+    <pubDate>Tue, 03 Mar 2020 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugonotes/posts/notes-on-git/</guid>
+    <description><![CDATA[notatki z kursu o git na Courserze Większość materiałów pochodzi z Coursery
+on setting new email and privacy
+git init git clone URL
+git init creates .git/ (git directory) in the current directory, the &ldquo;working tree&rdquo; is the current/parent directory that contains .git/
+The git directory contains all the changes and their history and the working tree contains the current versions of the files.
+The git directory acts as a database for all the changes tracked in Git and the working tree acts as a sandbox where we can edit the current versions of the files.]]></description>
+</item></channel>
+</rss>
