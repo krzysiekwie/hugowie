@@ -45,7 +45,7 @@ theme = "LoveIt"
   [params.search]
     enable = true
     # type of search engine ("lunr", "algolia")
-    type = "lunr"
+    type = "algolia"
     # max index length of the chunked content
     contentLength = 4000
     # placeholder of the search bar
@@ -59,9 +59,9 @@ theme = "LoveIt"
     # LoveIt NEW | 0.2.4 whether to use the absolute URL based on the baseURL in search index
     absoluteURL = false
     [params.search.algolia]
-      index = ""
-      appID = ""
-      searchKey = ""
+      index = "prod_HUGONOTES"
+      appID = "UWZ8YZMDC5"
+      searchKey = "95e5aedcd3cbe2f94cb3373ba146f628"
 
   # Header config
   [params.header]
