@@ -3,7 +3,27 @@
         <title>All Posts - notes in hugo</title>
         <link>https://krzysiekwie.github.io/hugonotes/posts/</link>
         <description>All Posts | notes in hugo</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 18 May 2020 17:37:02 &#43;0200</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugonotes/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 22 May 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugonotes/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Matlab - IDE vs notepad</title>
+    <link>https://krzysiekwie.github.io/hugonotes/posts/matlab-first-function/</link>
+    <pubDate>Fri, 22 May 2020 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugonotes/posts/matlab-first-function/</guid>
+    <description><![CDATA[Matlab na forum Coursery w kursie mnóstwo ludzi ma problem z napisaniem pierwszej funkcji w testach - nie otwierają się w edytorze na https://matlab.mathworks.com/ tylko w zwykłym textboksie. Tymczasem&hellip;
+edytor funkcji otwiera się z gotowym szablonem
+1 2 3 4 5 6  function[outputArg1,outputArg2] =untitled2(inputArg1,inputArg2)%UNTITLED2 Summary of this function goes here % Detailed explanation goes here outputArg1 = inputArg1; outputArg2 = inputArg2; end   min i max w ćwiczeniu w środku tygodnia główny cel to chyba zmuszenie ludzi do zajrzenia do dokumentacji, bo ma bardzo niewiele wspólnego z filmami z tego tygodnia]]></description>
+</item><item>
+    <title>JS - shorthand</title>
+    <link>https://krzysiekwie.github.io/hugonotes/posts/js-shorthand/</link>
+    <pubDate>Wed, 20 May 2020 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugonotes/posts/js-shorthand/</guid>
+    <description><![CDATA[Takie ćwiczenie na CodeCademy (część ścieżki więc konieczne do zaliczenia całości)
+utwórz funkcję, lifePhase(), która na podstawie liczby age, as zwróci opisowy wiek.
+Schemat: 0-3 'baby' 4-12 'child' 13-19 'teen' 20-64 'adult' 65-140 'senior citizen' jeśli liczba jest mniejsza od 0 lub większa od 140 - 'This is not a valid age'
+Czasami przy takich rzeczach korzystam z podpowiedzi i zamiast pisać coś prostego wolę to skopiować i wkleić
+Tym razem hint to:]]></description>
+</item><item>
     <title>Początki Z Hugo</title>
     <link>https://krzysiekwie.github.io/hugonotes/posts/hugo-start/</link>
     <pubDate>Mon, 18 May 2020 17:37:02 &#43;0200</pubDate>
@@ -48,5 +68,13 @@ git init git clone URL
 git init creates .git/ (git directory) in the current directory, the &ldquo;working tree&rdquo; is the current/parent directory that contains .git/
 The git directory contains all the changes and their history and the working tree contains the current versions of the files.
 The git directory acts as a database for all the changes tracked in Git and the working tree acts as a sandbox where we can edit the current versions of the files.]]></description>
+</item><item>
+    <title>React boilerplates</title>
+    <link>https://krzysiekwie.github.io/hugonotes/posts/react-boilerplates/</link>
+    <pubDate>Thu, 10 Oct 2019 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugonotes/posts/react-boilerplates/</guid>
+    <description><![CDATA[Komponenty State i Stateless Parent przekazuje stan do Child i renderuje Child. Child renderuje stan otrzymany z Parent
+Parent 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21  # react component import React from &#39;react&#39; import ReactDOM from &#39;react-dom&#39; import {Child} from &#39;./Child&#39; class Parent extends React.Component { constructor(props) { super(props); this.state = { name: &#39;Value&#39; }; } render() { return &lt;Child name={this.]]></description>
 </item></channel>
 </rss>

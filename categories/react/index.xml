@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>React - Category - notes in hugo</title>
+        <link>https://krzysiekwie.github.io/hugonotes/categories/react/</link>
+        <description>React - Category - notes in hugo</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 10 Oct 2019 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugonotes/categories/react/" rel="self" type="application/rss+xml" /><item>
+    <title>React boilerplates</title>
+    <link>https://krzysiekwie.github.io/hugonotes/posts/react-boilerplates/</link>
+    <pubDate>Thu, 10 Oct 2019 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugonotes/posts/react-boilerplates/</guid>
+    <description><![CDATA[Komponenty State i Stateless Parent przekazuje stan do Child i renderuje Child. Child renderuje stan otrzymany z Parent
+Parent 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21  # react component import React from &#39;react&#39; import ReactDOM from &#39;react-dom&#39; import {Child} from &#39;./Child&#39; class Parent extends React.Component { constructor(props) { super(props); this.state = { name: &#39;Value&#39; }; } render() { return &lt;Child name={this.]]></description>
+</item></channel>
+</rss>

@@ -3,7 +3,18 @@
         <title>scripts - Category - notes in hugo</title>
         <link>https://krzysiekwie.github.io/hugonotes/categories/scripts/</link>
         <description>scripts - Category - notes in hugo</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 10 Apr 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugonotes/categories/scripts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 20 May 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugonotes/categories/scripts/" rel="self" type="application/rss+xml" /><item>
+    <title>JS - shorthand</title>
+    <link>https://krzysiekwie.github.io/hugonotes/posts/js-shorthand/</link>
+    <pubDate>Wed, 20 May 2020 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugonotes/posts/js-shorthand/</guid>
+    <description><![CDATA[Takie ćwiczenie na CodeCademy (część ścieżki więc konieczne do zaliczenia całości)
+utwórz funkcję, lifePhase(), która na podstawie liczby age, as zwróci opisowy wiek.
+Schemat: 0-3 'baby' 4-12 'child' 13-19 'teen' 20-64 'adult' 65-140 'senior citizen' jeśli liczba jest mniejsza od 0 lub większa od 140 - 'This is not a valid age'
+Czasami przy takich rzeczach korzystam z podpowiedzi i zamiast pisać coś prostego wolę to skopiować i wkleić
+Tym razem hint to:]]></description>
+</item><item>
     <title>Quick and dirty Python scripts</title>
     <link>https://krzysiekwie.github.io/hugonotes/posts/python-scripts-marketing/</link>
     <pubDate>Fri, 10 Apr 2020 00:00:00 &#43;0000</pubDate>

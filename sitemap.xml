@@ -2,16 +2,25 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://krzysiekwie.github.io/hugonotes/tags/boilerplate/</loc><lastmod>2020-05-22T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://krzysiekwie.github.io/hugonotes/categories/</loc><lastmod>2020-05-22T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://krzysiekwie.github.io/hugonotes/tags/codecademy/</loc><lastmod>2020-05-22T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://krzysiekwie.github.io/hugonotes/tags/course/</loc><lastmod>2020-05-22T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://krzysiekwie.github.io/hugonotes/categories/kursy/</loc><lastmod>2020-05-22T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://krzysiekwie.github.io/hugonotes/posts/matlab-first-function/</loc><lastmod>2020-05-22T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://krzysiekwie.github.io/hugonotes/</loc><lastmod>2020-05-22T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://krzysiekwie.github.io/hugonotes/posts/</loc><lastmod>2020-05-22T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://krzysiekwie.github.io/hugonotes/tags/snippets/</loc><lastmod>2020-05-22T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://krzysiekwie.github.io/hugonotes/tags/</loc><lastmod>2020-05-22T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://krzysiekwie.github.io/hugonotes/categories/javascirpt/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://krzysiekwie.github.io/hugonotes/posts/js-shorthand/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://krzysiekwie.github.io/hugonotes/categories/scripts/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugonotes/tags/bash/</loc><lastmod>2020-05-18T17:37:02&#43;02:00</lastmod></url><url>
-            <loc>https://krzysiekwie.github.io/hugonotes/categories/</loc><lastmod>2020-05-18T17:37:02&#43;02:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugonotes/tags/hugo/</loc><lastmod>2020-05-18T17:37:02&#43;02:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugonotes/categories/hugo/</loc><lastmod>2020-05-18T17:37:02&#43;02:00</lastmod></url><url>
-            <loc>https://krzysiekwie.github.io/hugonotes/</loc><lastmod>2020-05-18T17:37:02&#43;02:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugonotes/categories/o-stronie/</loc><lastmod>2020-05-18T17:37:02&#43;02:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugonotes/tags/organizacja/</loc><lastmod>2020-05-18T17:37:02&#43;02:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugonotes/posts/hugo-start/</loc><lastmod>2020-05-18T17:37:02&#43;02:00</lastmod></url><url>
-            <loc>https://krzysiekwie.github.io/hugonotes/posts/</loc><lastmod>2020-05-18T17:37:02&#43;02:00</lastmod></url><url>
-            <loc>https://krzysiekwie.github.io/hugonotes/tags/</loc><lastmod>2020-05-18T17:37:02&#43;02:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugonotes/tags/coursera/</loc><lastmod>2020-04-10T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugonotes/tags/marketing/</loc><lastmod>2020-04-10T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugonotes/categories/python/</loc><lastmod>2020-04-10T00:00:00&#43;00:00</lastmod></url><url>
@@ -21,10 +30,11 @@
             <loc>https://krzysiekwie.github.io/hugonotes/tags/ruby/</loc><lastmod>2020-04-10T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugonotes/posts/ruby-web-scrape/</loc><lastmod>2020-04-10T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugonotes/tags/script/</loc><lastmod>2020-04-10T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://krzysiekwie.github.io/hugonotes/categories/scripts/</loc><lastmod>2020-04-10T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugonotes/tags/web-scraping/</loc><lastmod>2020-04-10T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://krzysiekwie.github.io/hugonotes/categories/kursy/</loc><lastmod>2020-03-16T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugonotes/posts/python-list-compregension/</loc><lastmod>2020-03-16T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugonotes/tags/git/</loc><lastmod>2020-03-03T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugonotes/posts/notes-on-git/</loc><lastmod>2020-03-03T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://krzysiekwie.github.io/hugonotes/tags/vcs/</loc><lastmod>2020-03-03T00:00:00&#43;00:00</lastmod></url></urlset>
+            <loc>https://krzysiekwie.github.io/hugonotes/tags/vcs/</loc><lastmod>2020-03-03T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://krzysiekwie.github.io/hugonotes/categories/react/</loc><lastmod>2019-10-10T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://krzysiekwie.github.io/hugonotes/tags/react/</loc><lastmod>2019-10-10T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://krzysiekwie.github.io/hugonotes/posts/react-boilerplates/</loc><lastmod>2019-10-10T00:00:00&#43;00:00</lastmod></url></urlset>

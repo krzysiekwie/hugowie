@@ -3,7 +3,35 @@
         <title>Tags - Tag - notes in hugo</title>
         <link>https://krzysiekwie.github.io/hugonotes/tags/</link>
         <description>Tags - Tag - notes in hugo</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 18 May 2020 17:37:02 &#43;0200</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugonotes/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 22 May 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugonotes/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>boilerplate</title>
+    <link>https://krzysiekwie.github.io/hugonotes/tags/boilerplate/</link>
+    <pubDate>Fri, 22 May 2020 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugonotes/tags/boilerplate/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>codecademy</title>
+    <link>https://krzysiekwie.github.io/hugonotes/tags/codecademy/</link>
+    <pubDate>Fri, 22 May 2020 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugonotes/tags/codecademy/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>course</title>
+    <link>https://krzysiekwie.github.io/hugonotes/tags/course/</link>
+    <pubDate>Fri, 22 May 2020 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugonotes/tags/course/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>snippets</title>
+    <link>https://krzysiekwie.github.io/hugonotes/tags/snippets/</link>
+    <pubDate>Fri, 22 May 2020 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugonotes/tags/snippets/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>bash</title>
     <link>https://krzysiekwie.github.io/hugonotes/tags/bash/</link>
     <pubDate>Mon, 18 May 2020 17:37:02 &#43;0200</pubDate>
@@ -44,34 +72,6 @@
     <pubDate>Fri, 10 Apr 2020 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
     <guid>https://krzysiekwie.github.io/hugonotes/tags/python/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>ruby</title>
-    <link>https://krzysiekwie.github.io/hugonotes/tags/ruby/</link>
-    <pubDate>Fri, 10 Apr 2020 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://krzysiekwie.github.io/hugonotes/tags/ruby/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>script</title>
-    <link>https://krzysiekwie.github.io/hugonotes/tags/script/</link>
-    <pubDate>Fri, 10 Apr 2020 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://krzysiekwie.github.io/hugonotes/tags/script/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>web-scraping</title>
-    <link>https://krzysiekwie.github.io/hugonotes/tags/web-scraping/</link>
-    <pubDate>Fri, 10 Apr 2020 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://krzysiekwie.github.io/hugonotes/tags/web-scraping/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>git</title>
-    <link>https://krzysiekwie.github.io/hugonotes/tags/git/</link>
-    <pubDate>Tue, 03 Mar 2020 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://krzysiekwie.github.io/hugonotes/tags/git/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
