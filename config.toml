@@ -132,7 +132,7 @@ theme = "LoveIt"
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
       title = "hugo notes"
       # subtitle shown in home page
-      subtitle = "notki pisane na gorąco"
+      subtitle = "szybkie notki"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
@@ -151,10 +151,10 @@ theme = "LoveIt"
   # Social config about the author
   [params.social]
     GitHub = "https://github.com/krzysiekwie"
-    Linkedin = ""
-    Twitter = "xxxx"
-    Instagram = "xxxx"
-    Facebook = "xxxx"
+    Linkedin = "https://www.linkedin.com/in/krzysztof-wierzbicki-39aaa123"
+    Twitter = "https://github.com/krzysiekwie"
+    Instagram = "https://instagram.com/wkadruje"
+    Facebook = "https://www.facebook.com/krzysiek.wie"
     Telegram = ""
     Medium = ""
     Gitlab = ""
@@ -169,11 +169,11 @@ theme = "LoveIt"
     Codepen = ""
     FreeCodeCamp = ""
     Bitbucket = ""
-    Stackoverflow = ""
+    Stackoverflow = "http://stackoverflow.com/users/5573978/kwie"
     Weibo = ""
     Odnoklassniki = ""
     VK = ""
-    Flickr = ""
+    Flickr = "https://www.flickr.com/wiekszy"
     Xing = ""
     Snapchat = ""
     Soundcloud = ""
@@ -212,7 +212,7 @@ theme = "LoveIt"
     XMPP = ""
     Matrix = ""
     Bilibili = ""
-    Email = "xxxx@xxxx.com"
+    Email = "krzwierz79@gmail.com"
     RSS = true # LoveIt NEW | 0.2.0
 
   # LoveIt CHANGED | 0.2.0 Page config
