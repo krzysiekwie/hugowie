@@ -1,7 +1,7 @@
 [
     {
         "uri": "/posts/_draft---frontmatter",
-        "content": "---\r\ntitle: \"\"\r\ndate: 2020-05-00 #YYYY-MM-DD(TT18:36:41+02:00)\r\ndraft: false #true\r\ncategories:\r\n  # - kursy\r\n  # - scripts\r\n  # - o stronie\r\n  # - Python\r\n  # - hugo\r\n  # - React\r\ndescription: \"\"\r\ntags:\r\n  # - bash\r\n  # - boilerplate\r\n  # - codecademy\r\n  # - course\r\n  # - coursera\r\n  # - git\r\n  # - hugo\r\n  # - marketing\r\n  # - organizacja\r\n  # - python\r\n  # - react\r\n  # - ruby\r\n  # - script\r\n  # - snippets\r\n  # - vcs\r\n  # - web-scraping\r\n---\r\n",
+        "content": "---\r\ntitle: \"\"\r\ndate: 2020-05-00 #YYYY-MM-DD(TT18:36:41+02:00)\r\ndraft: true #false\r\ncategories:\r\n  # - kursy\r\n  # - scripts\r\n  # - o stronie\r\n  # - Python\r\n  # - hugo\r\n  # - React\r\ndescription: \"\"\r\ntags:\r\n  # - bash\r\n  # - boilerplate\r\n  # - codecademy\r\n  # - course\r\n  # - coursera\r\n  # - git\r\n  # - hugo\r\n  # - marketing\r\n  # - organizacja\r\n  # - python\r\n  # - react\r\n  # - ruby\r\n  # - script\r\n  # - snippets\r\n  # - vcs\r\n  # - web-scraping\r\n---\r\n",
         "tags": []
     },
     {

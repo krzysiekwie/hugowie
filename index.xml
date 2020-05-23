@@ -76,12 +76,5 @@ The git directory acts as a database for all the changes tracked in Git and the 
     <guid>https://krzysiekwie.github.io/hugonotes/posts/react-boilerplates/</guid>
     <description><![CDATA[Komponenty State i Stateless Parent przekazuje stan do Child i renderuje Child. Child renderuje stan otrzymany z Parent
 Parent 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21  # react component import React from &#39;react&#39; import ReactDOM from &#39;react-dom&#39; import {Child} from &#39;./Child&#39; class Parent extends React.Component { constructor(props) { super(props); this.state = { name: &#39;Value&#39; }; } render() { return &lt;Child name={this.]]></description>
-</item><item>
-    <title></title>
-    <link>https://krzysiekwie.github.io/hugonotes/posts/_draft-frontmatter/</link>
-    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://krzysiekwie.github.io/hugonotes/posts/_draft-frontmatter/</guid>
-    <description><![CDATA[]]></description>
 </item></channel>
 </rss>
