@@ -1,0 +1,28 @@
+{
+    "name": "hugonotes",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+        "doc": "docs"
+    },
+    "dependencies": {
+        "hugo-lunr": "^0.0.4"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "index": "hugo-lunr",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/krzysiekwie/hugonotes.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/krzysiekwie/hugonotes/issues"
+    },
+    "homepage": "https://github.com/krzysiekwie/hugonotes#readme"
+}
