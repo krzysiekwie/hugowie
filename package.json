@@ -7,12 +7,11 @@
         "doc": "docs"
     },
     "dependencies": {
-        "atomic-algolia": "^0.3.17",
-        "hugo-lunr": "^0.0.4"
+        "atomic-algolia": "^0.3.17"
     },
     "devDependencies": {},
     "scripts": {
-        "index": "hugo-lunr",
+        "algolia": "atomic-algolia",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
