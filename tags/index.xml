@@ -3,19 +3,26 @@
         <title>Tags - Tag - notes in hugo</title>
         <link>https://krzysiekwie.github.io/hugonotes/tags/</link>
         <description>Tags - Tag - notes in hugo</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 22 May 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugonotes/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 27 May 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugonotes/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>codecademy</title>
+    <link>https://krzysiekwie.github.io/hugonotes/tags/codecademy/</link>
+    <pubDate>Wed, 27 May 2020 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugonotes/tags/codecademy/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>script</title>
+    <link>https://krzysiekwie.github.io/hugonotes/tags/script/</link>
+    <pubDate>Wed, 27 May 2020 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugonotes/tags/script/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>boilerplate</title>
     <link>https://krzysiekwie.github.io/hugonotes/tags/boilerplate/</link>
     <pubDate>Fri, 22 May 2020 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
     <guid>https://krzysiekwie.github.io/hugonotes/tags/boilerplate/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>codecademy</title>
-    <link>https://krzysiekwie.github.io/hugonotes/tags/codecademy/</link>
-    <pubDate>Fri, 22 May 2020 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://krzysiekwie.github.io/hugonotes/tags/codecademy/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>course</title>
@@ -65,13 +72,6 @@
     <pubDate>Fri, 10 Apr 2020 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
     <guid>https://krzysiekwie.github.io/hugonotes/tags/marketing/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>python</title>
-    <link>https://krzysiekwie.github.io/hugonotes/tags/python/</link>
-    <pubDate>Fri, 10 Apr 2020 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://krzysiekwie.github.io/hugonotes/tags/python/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>

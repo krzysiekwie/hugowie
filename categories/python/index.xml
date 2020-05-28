@@ -3,7 +3,15 @@
         <title>Python - Category - notes in hugo</title>
         <link>https://krzysiekwie.github.io/hugonotes/categories/python/</link>
         <description>Python - Category - notes in hugo</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 10 Apr 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugonotes/categories/python/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 27 May 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugonotes/categories/python/" rel="self" type="application/rss+xml" /><item>
+    <title>Tarot z Codecademy</title>
+    <link>https://krzysiekwie.github.io/hugonotes/posts/codecademy-tarot/</link>
+    <pubDate>Wed, 27 May 2020 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugonotes/posts/codecademy-tarot/</guid>
+    <description><![CDATA[Codecademy przy wszystkich swoich zaletach ma czasem ćwiczenia, któe są nudne i strasznie powtarzalne, ale ma też takie, które inspirują żeby zostać z nimi chwilę dłużej i trochę rozbudować. W tym przypadku chodziło o wyciągnięcie ze słownika sztywno przypisanych kluczy razem z wartościami i pokazanie ich w trzech linijkach tekście.
+Zwykłe ćwicznie niby nic, ale fakt że wartościami są karty tarota a teksty układają się w prostą &ldquo;wróżbę&rdquo;, daje potencjał. Wystarczyło dodać losowanie kart w funkcji (oryginalnie to była lista wybranych wartości) i można się przez chwilę pobawić.]]></description>
+</item><item>
     <title>Quick and dirty Python scripts</title>
     <link>https://krzysiekwie.github.io/hugonotes/posts/python-scripts-marketing/</link>
     <pubDate>Fri, 10 Apr 2020 00:00:00 &#43;0000</pubDate>
