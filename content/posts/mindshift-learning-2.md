@@ -33,9 +33,9 @@ tags:
 ## Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential
 
 by McMaster University
-(on Coursera)[https://www.coursera.org/learn/mindshift/home/welcome]
+[on Coursera](https://www.coursera.org/learn/mindshift/home/welcome)
 
-Week 1
+[Week 1]({{< ref "mindshift-learning.md" >}})
 
 ## Week 2
 
@@ -123,4 +123,4 @@ have psychological trust and respect, feeling comfortable being themselves, and 
 increases positive social behaviours
 low levels of serotonin can trigger violent behaviours. Inmates for violent crimes have lowest serotonin levels across population
 
-Week 3
+[Week 3]({{< ref "mindshift-learning-3.md" >}})

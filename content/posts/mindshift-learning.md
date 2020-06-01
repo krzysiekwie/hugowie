@@ -33,7 +33,7 @@ tags:
 ## Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential
 
 by McMaster University
-(on Coursera)[https://www.coursera.org/learn/mindshift/home/welcome]
+[on Coursera](https://www.coursera.org/learn/mindshift/home/welcome)
 
 ## Week 1
 
@@ -68,4 +68,4 @@ and to be more specific, one particular aspect of it: "who you hang out with". I
 
 In the future I am planning to increase my circle of study buddies (or study group) for this course and others either by using the Coursera forums or introducing people in my social circles to this course. Several weeks ago I've set up a mini-website for course notes at krzysiekwie.github.io and I'm using it as a hub for my learning connections. If you're reading this and want to connect and learn together (either in this course or others) get in touch with me.
 
-(week 2)[./mindshift-learning.md]
+[Week 2]({{< ref "mindshift-learning-2.md" >}})
