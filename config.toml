@@ -74,7 +74,7 @@ theme = "LoveIt"
       # URL of the LOGO
       logo = ""
       # title name
-      name = "hugoNotes"
+      name = "hugoWie"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -130,7 +130,7 @@ theme = "LoveIt"
       # URL of avatar shown in home page
       avatarURL = "/images/avatar.png"
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
-      title = "hugo notes"
+      title = "hugoWie"
       # subtitle shown in home page
       subtitle = "szybkie notki"
       # whether to use typeit animation for subtitle
@@ -284,30 +284,30 @@ theme = "LoveIt"
       enable = true
       Twitter = true
       Facebook = true
-      Linkedin = false
+      Linkedin = true
       Whatsapp = true
-      Pinterest = false
-      Tumblr = false
-      HackerNews = false
-      Reddit = false
+      Pinterest = true
+      Tumblr = true
+      HackerNews = true
+      Reddit = true
       VK = false
       Buffer = false
       Xing = false
-      Line = true
+      Line = false
       Instapaper = false
       Pocket = false
       Digg = false
       Stumbleupon = false
       Flipboard = false
-      Weibo = true
+      Weibo = false
       Renren = false
-      Myspace = true
-      Blogger = true
+      Myspace = false
+      Blogger = false
       Baidu = false
       Odnoklassniki = false
       Evernote = true
-      Skype = false
-      Trello = false
+      Skype = true
+      Trello = true
       Mix = false
     # LoveIt CHANGED | 0.2.0 Comment config
     [params.page.comment]
@@ -315,9 +315,9 @@ theme = "LoveIt"
       # Disqus comment config
       [params.page.comment.disqus]
         # LoveIt NEW | 0.1.1
-        enable = false
+        enable = true
         # Disqus shortname to use Disqus in posts
-        shortname = ""
+        shortname = "krzysiekwie-github-io-hugowie"
       # Gitalk comment config
       [params.page.comment.gitalk]
         # LoveIt NEW | 0.1.1
@@ -513,7 +513,7 @@ theme = "LoveIt"
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
     name = "Posts"
-    url = "../hugonotes/posts/"
+    url = "../hugowie/posts/"
     # title will be shown when you hover on this menu link
     title = ""
     weight = 1
@@ -522,7 +522,7 @@ theme = "LoveIt"
     pre = ""
     post = ""
     name = "Tags"
-    url = "../hugonotes/tags/"
+    url = "../hugowie/tags/"
     title = ""
     weight = 2
   [[menu.main]]
@@ -530,6 +530,6 @@ theme = "LoveIt"
     pre = ""
     post = ""
     name = "Categories"
-    url = "../hugonotes/categories/"
+    url = "../hugowie/categories/"
     title = ""
     weight = 3
