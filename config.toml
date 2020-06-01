@@ -429,10 +429,10 @@ theme = "LoveIt"
 
   # LoveIt NEW | 0.2.0 Analytics config
   [params.analytics]
-    enable = false
+    enable = true
     # Google Analytics
     [params.analytics.google]
-      id = ""
+      id = "UA-163773670-2"
       # whether to anonymize IP
       anonymizeIP = true
     # Fathom Analytics
