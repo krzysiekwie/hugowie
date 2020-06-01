@@ -1,30 +1,30 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>script - Tag - notes in hugo</title>
-        <link>https://krzysiekwie.github.io/hugonotes/tags/script/</link>
+        <link>https://krzysiekwie.github.io/hugowie/tags/script/</link>
         <description>script - Tag - notes in hugo</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 27 May 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugonotes/tags/script/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 27 May 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugowie/tags/script/" rel="self" type="application/rss+xml" /><item>
     <title>Tarot z Codecademy</title>
-    <link>https://krzysiekwie.github.io/hugonotes/posts/codecademy-tarot/</link>
+    <link>https://krzysiekwie.github.io/hugowie/posts/codecademy-tarot/</link>
     <pubDate>Wed, 27 May 2020 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://krzysiekwie.github.io/hugonotes/posts/codecademy-tarot/</guid>
+    <guid>https://krzysiekwie.github.io/hugowie/posts/codecademy-tarot/</guid>
     <description><![CDATA[Codecademy przy wszystkich swoich zaletach ma czasem ćwiczenia, któe są nudne i strasznie powtarzalne, ale ma też takie, które inspirują żeby zostać z nimi chwilę dłużej i trochę rozbudować. W tym przypadku chodziło o wyciągnięcie ze słownika sztywno przypisanych kluczy razem z wartościami i pokazanie ich w trzech linijkach tekście.
 Zwykłe ćwicznie niby nic, ale fakt że wartościami są karty tarota a teksty układają się w prostą &ldquo;wróżbę&rdquo;, daje potencjał. Wystarczyło dodać losowanie kart w funkcji (oryginalnie to była lista wybranych wartości) i można się przez chwilę pobawić.]]></description>
 </item><item>
     <title>Quick and dirty Python scripts</title>
-    <link>https://krzysiekwie.github.io/hugonotes/posts/python-scripts-marketing/</link>
+    <link>https://krzysiekwie.github.io/hugowie/posts/python-scripts-marketing/</link>
     <pubDate>Fri, 10 Apr 2020 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://krzysiekwie.github.io/hugonotes/posts/python-scripts-marketing/</guid>
+    <guid>https://krzysiekwie.github.io/hugowie/posts/python-scripts-marketing/</guid>
     <description><![CDATA[Couple small scripts for Marketing Analytics calculations
  Customer Lifetime Value Break Even Units total net profit  in Marketing experiments]]></description>
 </item><item>
     <title>Ruby - hello world plus</title>
-    <link>https://krzysiekwie.github.io/hugonotes/posts/ruby-web-scrape/</link>
+    <link>https://krzysiekwie.github.io/hugowie/posts/ruby-web-scrape/</link>
     <pubDate>Fri, 10 Apr 2020 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://krzysiekwie.github.io/hugonotes/posts/ruby-web-scrape/</guid>
+    <guid>https://krzysiekwie.github.io/hugowie/posts/ruby-web-scrape/</guid>
     <description><![CDATA[Ruby chciałem wypróbować od kiedy zrobiło się o nim głośno na podcastach TWiT, a potem jeszcze bardziej kiedy przeczytałem Codex. Ale nie było okazji i dopiero dzisiaj wróciłem do tematu. Jak na początek i pierwszy raz - baprawdę szybko poszło. Mój pierwszy w życiu skrypt w Ruby (oparty na dwóch tutorialach) napisałem zanim na dobre zdecydowałem czy lepiej będzie zainstalować Ruby z rbenv czy rvm.]]></description>
 </item></channel>
 </rss>

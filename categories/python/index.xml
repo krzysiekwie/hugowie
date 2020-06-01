@@ -1,30 +1,30 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Python - Category - notes in hugo</title>
-        <link>https://krzysiekwie.github.io/hugonotes/categories/python/</link>
+        <link>https://krzysiekwie.github.io/hugowie/categories/python/</link>
         <description>Python - Category - notes in hugo</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 27 May 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugonotes/categories/python/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 27 May 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugowie/categories/python/" rel="self" type="application/rss+xml" /><item>
     <title>Tarot z Codecademy</title>
-    <link>https://krzysiekwie.github.io/hugonotes/posts/codecademy-tarot/</link>
+    <link>https://krzysiekwie.github.io/hugowie/posts/codecademy-tarot/</link>
     <pubDate>Wed, 27 May 2020 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://krzysiekwie.github.io/hugonotes/posts/codecademy-tarot/</guid>
+    <guid>https://krzysiekwie.github.io/hugowie/posts/codecademy-tarot/</guid>
     <description><![CDATA[Codecademy przy wszystkich swoich zaletach ma czasem ćwiczenia, któe są nudne i strasznie powtarzalne, ale ma też takie, które inspirują żeby zostać z nimi chwilę dłużej i trochę rozbudować. W tym przypadku chodziło o wyciągnięcie ze słownika sztywno przypisanych kluczy razem z wartościami i pokazanie ich w trzech linijkach tekście.
 Zwykłe ćwicznie niby nic, ale fakt że wartościami są karty tarota a teksty układają się w prostą &ldquo;wróżbę&rdquo;, daje potencjał. Wystarczyło dodać losowanie kart w funkcji (oryginalnie to była lista wybranych wartości) i można się przez chwilę pobawić.]]></description>
 </item><item>
     <title>Quick and dirty Python scripts</title>
-    <link>https://krzysiekwie.github.io/hugonotes/posts/python-scripts-marketing/</link>
+    <link>https://krzysiekwie.github.io/hugowie/posts/python-scripts-marketing/</link>
     <pubDate>Fri, 10 Apr 2020 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://krzysiekwie.github.io/hugonotes/posts/python-scripts-marketing/</guid>
+    <guid>https://krzysiekwie.github.io/hugowie/posts/python-scripts-marketing/</guid>
     <description><![CDATA[Couple small scripts for Marketing Analytics calculations
  Customer Lifetime Value Break Even Units total net profit  in Marketing experiments]]></description>
 </item><item>
     <title>Python: list comprehension</title>
-    <link>https://krzysiekwie.github.io/hugonotes/posts/python-list-compregension/</link>
+    <link>https://krzysiekwie.github.io/hugowie/posts/python-list-compregension/</link>
     <pubDate>Mon, 16 Mar 2020 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://krzysiekwie.github.io/hugonotes/posts/python-list-compregension/</guid>
+    <guid>https://krzysiekwie.github.io/hugowie/posts/python-list-compregension/</guid>
     <description><![CDATA[cała lista new_list = [element.method() for element in old_list]
 wrunkowo z if new_list = [element.method() for element in old_list if element = &ldquo;chosen&rdquo;]
 warunkowo z if/else new_list = [element.method() if element != &ldquo;exception&rdquo; else element.exception_method() for element in old_list]]]></description>

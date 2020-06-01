@@ -1,63 +1,63 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - Category - notes in hugo</title>
-        <link>https://krzysiekwie.github.io/hugonotes/categories/</link>
+        <link>https://krzysiekwie.github.io/hugowie/categories/</link>
         <description>Categories - Category - notes in hugo</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 27 May 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugonotes/categories/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 27 May 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugowie/categories/" rel="self" type="application/rss+xml" /><item>
     <title>kursy</title>
-    <link>https://krzysiekwie.github.io/hugonotes/categories/kursy/</link>
+    <link>https://krzysiekwie.github.io/hugowie/categories/kursy/</link>
     <pubDate>Wed, 27 May 2020 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://krzysiekwie.github.io/hugonotes/categories/kursy/</guid>
+    <guid>https://krzysiekwie.github.io/hugowie/categories/kursy/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Python</title>
-    <link>https://krzysiekwie.github.io/hugonotes/categories/python/</link>
+    <link>https://krzysiekwie.github.io/hugowie/categories/python/</link>
     <pubDate>Wed, 27 May 2020 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://krzysiekwie.github.io/hugonotes/categories/python/</guid>
+    <guid>https://krzysiekwie.github.io/hugowie/categories/python/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>JavaScirpt</title>
-    <link>https://krzysiekwie.github.io/hugonotes/categories/javascirpt/</link>
+    <link>https://krzysiekwie.github.io/hugowie/categories/javascirpt/</link>
     <pubDate>Wed, 20 May 2020 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://krzysiekwie.github.io/hugonotes/categories/javascirpt/</guid>
+    <guid>https://krzysiekwie.github.io/hugowie/categories/javascirpt/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>scripts</title>
-    <link>https://krzysiekwie.github.io/hugonotes/categories/scripts/</link>
+    <link>https://krzysiekwie.github.io/hugowie/categories/scripts/</link>
     <pubDate>Wed, 20 May 2020 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://krzysiekwie.github.io/hugonotes/categories/scripts/</guid>
+    <guid>https://krzysiekwie.github.io/hugowie/categories/scripts/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>hugo</title>
-    <link>https://krzysiekwie.github.io/hugonotes/categories/hugo/</link>
+    <link>https://krzysiekwie.github.io/hugowie/categories/hugo/</link>
     <pubDate>Mon, 18 May 2020 17:37:02 &#43;0200</pubDate>
     <author>Author</author>
-    <guid>https://krzysiekwie.github.io/hugonotes/categories/hugo/</guid>
+    <guid>https://krzysiekwie.github.io/hugowie/categories/hugo/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>o stronie</title>
-    <link>https://krzysiekwie.github.io/hugonotes/categories/o-stronie/</link>
+    <link>https://krzysiekwie.github.io/hugowie/categories/o-stronie/</link>
     <pubDate>Mon, 18 May 2020 17:37:02 &#43;0200</pubDate>
     <author>Author</author>
-    <guid>https://krzysiekwie.github.io/hugonotes/categories/o-stronie/</guid>
+    <guid>https://krzysiekwie.github.io/hugowie/categories/o-stronie/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Ruby</title>
-    <link>https://krzysiekwie.github.io/hugonotes/categories/ruby/</link>
+    <link>https://krzysiekwie.github.io/hugowie/categories/ruby/</link>
     <pubDate>Fri, 10 Apr 2020 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://krzysiekwie.github.io/hugonotes/categories/ruby/</guid>
+    <guid>https://krzysiekwie.github.io/hugowie/categories/ruby/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>React</title>
-    <link>https://krzysiekwie.github.io/hugonotes/categories/react/</link>
+    <link>https://krzysiekwie.github.io/hugowie/categories/react/</link>
     <pubDate>Thu, 10 Oct 2019 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://krzysiekwie.github.io/hugonotes/categories/react/</guid>
+    <guid>https://krzysiekwie.github.io/hugowie/categories/react/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
