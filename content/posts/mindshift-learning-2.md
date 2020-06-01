@@ -1,6 +1,6 @@
 ---
 title: "Mindshift, a course on learning"
-date: 2020-05-00 #YYYY-MM-DD(TT18:36:41+02:00)
+date: 2020-06-01 #YYYY-MM-DD(TT18:36:41+02:00)
 draft: false
 categories:
   - kursy
