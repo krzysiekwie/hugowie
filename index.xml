@@ -3,7 +3,25 @@
         <title>notes in hugo</title>
         <link>https://krzysiekwie.github.io/hugowie/</link>
         <description>This is My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 27 May 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugowie/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugowie/" rel="self" type="application/rss+xml" /><item>
+    <title>Mindshift, a course on learning</title>
+    <link>https://krzysiekwie.github.io/hugowie/posts/mindshift-learning-2/</link>
+    <pubDate>Mon, 01 Jun 2020 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugowie/posts/mindshift-learning-2/</guid>
+    <description><![CDATA[Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential by McMaster University (on Coursera)[https://www.coursera.org/learn/mindshift/home/welcome]
+Week 1
+Week 2 Advantage of poor memory Because there are roughly 4 working memory slots in the brain and 4 memory/thought neural chunks can be held there at any given moment, pulling in or losing active chunks from working memory activates diffuse mode and results in more creative solutions to problems.
+Meditation types and brain moded focus meditation (sound, mantra, chakra)]]></description>
+</item><item>
+    <title>Mindshift, a course on learning</title>
+    <link>https://krzysiekwie.github.io/hugowie/posts/mindshift-learning-3/</link>
+    <pubDate>Mon, 01 Jun 2020 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugowie/posts/mindshift-learning-3/</guid>
+    <description><![CDATA[Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential by McMaster University (on Coursera)[https://www.coursera.org/learn/mindshift/home/welcome]
+Week 1 The unexpected assets from your past&ndash;and breaking through initial feelings of incompetence This is not entirely unexpected: I&rsquo;ve been a hobbyist programmer for around 30 years now, started as a kid, then on and off used simple scripts for work and bits and pieces of web design for personal projects. At work I&rsquo;ve been meeting IT managers and experienced developers and felt a great gap between their expertise and my limited understanding of programming.]]></description>
+</item><item>
     <title>Tarot z Codecademy</title>
     <link>https://krzysiekwie.github.io/hugowie/posts/codecademy-tarot/</link>
     <pubDate>Wed, 27 May 2020 00:00:00 &#43;0000</pubDate>
@@ -11,6 +29,14 @@
     <guid>https://krzysiekwie.github.io/hugowie/posts/codecademy-tarot/</guid>
     <description><![CDATA[Codecademy przy wszystkich swoich zaletach ma czasem ćwiczenia, któe są nudne i strasznie powtarzalne, ale ma też takie, które inspirują żeby zostać z nimi chwilę dłużej i trochę rozbudować. W tym przypadku chodziło o wyciągnięcie ze słownika sztywno przypisanych kluczy razem z wartościami i pokazanie ich w trzech linijkach tekście.
 Zwykłe ćwicznie niby nic, ale fakt że wartościami są karty tarota a teksty układają się w prostą &ldquo;wróżbę&rdquo;, daje potencjał. Wystarczyło dodać losowanie kart w funkcji (oryginalnie to była lista wybranych wartości) i można się przez chwilę pobawić.]]></description>
+</item><item>
+    <title>Mindshift, a course on learning</title>
+    <link>https://krzysiekwie.github.io/hugowie/posts/mindshift-learning/</link>
+    <pubDate>Mon, 25 May 2020 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugowie/posts/mindshift-learning/</guid>
+    <description><![CDATA[Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential by McMaster University (on Coursera)[https://www.coursera.org/learn/mindshift/home/welcome]
+Week 1 The unexpected assets from your past&ndash;and breaking through initial feelings of incompetence This is not entirely unexpected: I&rsquo;ve been a hobbyist programmer for around 30 years now, started as a kid, then on and off used simple scripts for work and bits and pieces of web design for personal projects. At work I&rsquo;ve been meeting IT managers and experienced developers and felt a great gap between their expertise and my limited understanding of programming.]]></description>
 </item><item>
     <title>Matlab - IDE vs notepad</title>
     <link>https://krzysiekwie.github.io/hugowie/posts/matlab-first-function/</link>
@@ -64,35 +90,5 @@ szybkim skryptem z gałęzią gh-pages w katalogu /public
     <description><![CDATA[cała lista new_list = [element.method() for element in old_list]
 wrunkowo z if new_list = [element.method() for element in old_list if element = &ldquo;chosen&rdquo;]
 warunkowo z if/else new_list = [element.method() if element != &ldquo;exception&rdquo; else element.exception_method() for element in old_list]]]></description>
-</item><item>
-    <title>notatki z git</title>
-    <link>https://krzysiekwie.github.io/hugowie/posts/notes-on-git/</link>
-    <pubDate>Tue, 03 Mar 2020 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://krzysiekwie.github.io/hugowie/posts/notes-on-git/</guid>
-    <description><![CDATA[notatki z kursu o git na Courserze Większość materiałów pochodzi z Coursery
-on setting new email and privacy
-git init git clone URL
-git init creates .git/ (git directory) in the current directory, the &ldquo;working tree&rdquo; is the current/parent directory that contains .git/
-The git directory contains all the changes and their history and the working tree contains the current versions of the files.
-The git directory acts as a database for all the changes tracked in Git and the working tree acts as a sandbox where we can edit the current versions of the files.]]></description>
-</item><item>
-    <title>React boilerplates</title>
-    <link>https://krzysiekwie.github.io/hugowie/posts/react-boilerplates/</link>
-    <pubDate>Thu, 10 Oct 2019 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://krzysiekwie.github.io/hugowie/posts/react-boilerplates/</guid>
-    <description><![CDATA[Komponenty State i Stateless Parent przekazuje stan do Child i renderuje Child. Child renderuje stan otrzymany z Parent
-Parent 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21  # react component import React from &#39;react&#39; import ReactDOM from &#39;react-dom&#39; import {Child} from &#39;./Child&#39; class Parent extends React.Component { constructor(props) { super(props); this.state = { name: &#39;Value&#39; }; } render() { return &lt;Child name={this.]]></description>
-</item><item>
-    <title>Mindshift, a course on learning</title>
-    <link>https://krzysiekwie.github.io/hugowie/posts/mindshift-learning-2/</link>
-    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://krzysiekwie.github.io/hugowie/posts/mindshift-learning-2/</guid>
-    <description><![CDATA[Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential by McMaster University (on Coursera)[https://www.coursera.org/learn/mindshift/home/welcome]
-Week 1
-Week 2 Advantage of poor memory Because there are roughly 4 working memory slots in the brain and 4 memory/thought neural chunks can be held there at any given moment, pulling in or losing active chunks from working memory activates diffuse mode and results in more creative solutions to problems.
-Meditation types and brain moded focus meditation (sound, mantra, chakra)]]></description>
 </item></channel>
 </rss>

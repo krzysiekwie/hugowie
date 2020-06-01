@@ -3,7 +3,21 @@
         <title>Tags - Tag - notes in hugo</title>
         <link>https://krzysiekwie.github.io/hugowie/tags/</link>
         <description>Tags - Tag - notes in hugo</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 27 May 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugowie/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugowie/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>course</title>
+    <link>https://krzysiekwie.github.io/hugowie/tags/course/</link>
+    <pubDate>Mon, 01 Jun 2020 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugowie/tags/course/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>coursera</title>
+    <link>https://krzysiekwie.github.io/hugowie/tags/coursera/</link>
+    <pubDate>Mon, 01 Jun 2020 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugowie/tags/coursera/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>codecademy</title>
     <link>https://krzysiekwie.github.io/hugowie/tags/codecademy/</link>
     <pubDate>Wed, 27 May 2020 00:00:00 &#43;0000</pubDate>
@@ -23,13 +37,6 @@
     <pubDate>Fri, 22 May 2020 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
     <guid>https://krzysiekwie.github.io/hugowie/tags/boilerplate/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>course</title>
-    <link>https://krzysiekwie.github.io/hugowie/tags/course/</link>
-    <pubDate>Fri, 22 May 2020 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://krzysiekwie.github.io/hugowie/tags/course/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>snippets</title>
@@ -58,13 +65,6 @@
     <pubDate>Mon, 18 May 2020 17:37:02 &#43;0200</pubDate>
     <author>Author</author>
     <guid>https://krzysiekwie.github.io/hugowie/tags/organizacja/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>coursera</title>
-    <link>https://krzysiekwie.github.io/hugowie/tags/coursera/</link>
-    <pubDate>Fri, 10 Apr 2020 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://krzysiekwie.github.io/hugowie/tags/coursera/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>marketing</title>

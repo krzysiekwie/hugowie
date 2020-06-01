@@ -2,17 +2,22 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://krzysiekwie.github.io/hugowie/categories/</loc><lastmod>2020-05-27T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://krzysiekwie.github.io/hugowie/categories/</loc><lastmod>2020-06-01T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://krzysiekwie.github.io/hugowie/tags/course/</loc><lastmod>2020-06-01T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://krzysiekwie.github.io/hugowie/tags/coursera/</loc><lastmod>2020-06-01T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://krzysiekwie.github.io/hugowie/categories/in-english/</loc><lastmod>2020-06-01T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://krzysiekwie.github.io/hugowie/categories/kursy/</loc><lastmod>2020-06-01T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://krzysiekwie.github.io/hugowie/posts/mindshift-learning-2/</loc><lastmod>2020-06-01T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://krzysiekwie.github.io/hugowie/posts/mindshift-learning-3/</loc><lastmod>2020-06-01T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://krzysiekwie.github.io/hugowie/</loc><lastmod>2020-06-01T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://krzysiekwie.github.io/hugowie/posts/</loc><lastmod>2020-06-01T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://krzysiekwie.github.io/hugowie/tags/</loc><lastmod>2020-06-01T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugowie/tags/codecademy/</loc><lastmod>2020-05-27T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://krzysiekwie.github.io/hugowie/categories/kursy/</loc><lastmod>2020-05-27T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://krzysiekwie.github.io/hugowie/</loc><lastmod>2020-05-27T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://krzysiekwie.github.io/hugowie/posts/</loc><lastmod>2020-05-27T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugowie/categories/python/</loc><lastmod>2020-05-27T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugowie/tags/script/</loc><lastmod>2020-05-27T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://krzysiekwie.github.io/hugowie/tags/</loc><lastmod>2020-05-27T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugowie/posts/codecademy-tarot/</loc><lastmod>2020-05-27T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://krzysiekwie.github.io/hugowie/posts/mindshift-learning/</loc><lastmod>2020-05-25T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugowie/tags/boilerplate/</loc><lastmod>2020-05-22T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://krzysiekwie.github.io/hugowie/tags/course/</loc><lastmod>2020-05-22T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugowie/posts/matlab-first-function/</loc><lastmod>2020-05-22T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugowie/tags/snippets/</loc><lastmod>2020-05-22T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugowie/categories/javascirpt/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod></url><url>
@@ -24,7 +29,6 @@
             <loc>https://krzysiekwie.github.io/hugowie/categories/o-stronie/</loc><lastmod>2020-05-18T17:37:02&#43;02:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugowie/tags/organizacja/</loc><lastmod>2020-05-18T17:37:02&#43;02:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugowie/posts/hugo-start/</loc><lastmod>2020-05-18T17:37:02&#43;02:00</lastmod></url><url>
-            <loc>https://krzysiekwie.github.io/hugowie/tags/coursera/</loc><lastmod>2020-04-10T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugowie/tags/marketing/</loc><lastmod>2020-04-10T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugowie/tags/python/</loc><lastmod>2020-04-10T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugowie/posts/python-scripts-marketing/</loc><lastmod>2020-04-10T00:00:00&#43;00:00</lastmod></url><url>
@@ -38,8 +42,4 @@
             <loc>https://krzysiekwie.github.io/hugowie/tags/vcs/</loc><lastmod>2020-03-03T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugowie/categories/react/</loc><lastmod>2019-10-10T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugowie/tags/react/</loc><lastmod>2019-10-10T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://krzysiekwie.github.io/hugowie/posts/react-boilerplates/</loc><lastmod>2019-10-10T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://krzysiekwie.github.io/hugowie/categories/in-english/</loc></url><url>
-            <loc>https://krzysiekwie.github.io/hugowie/posts/mindshift-learning-2/</loc></url><url>
-            <loc>https://krzysiekwie.github.io/hugowie/posts/mindshift-learning-3/</loc></url><url>
-            <loc>https://krzysiekwie.github.io/hugowie/posts/mindshift-learning/</loc></url></urlset>
+            <loc>https://krzysiekwie.github.io/hugowie/posts/react-boilerplates/</loc><lastmod>2019-10-10T00:00:00&#43;00:00</lastmod></url></urlset>
