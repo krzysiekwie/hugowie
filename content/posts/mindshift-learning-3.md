@@ -1,5 +1,5 @@
 ---
-title: "Mindshift, a course on learning"
+title: "Mindshift, a course on learning - week 3"
 date: 2020-06-01 #YYYY-MM-DD(TT18:36:41+02:00)
 draft: false
 categories:
