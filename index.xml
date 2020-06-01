@@ -84,5 +84,15 @@ The git directory acts as a database for all the changes tracked in Git and the 
     <guid>https://krzysiekwie.github.io/hugowie/posts/react-boilerplates/</guid>
     <description><![CDATA[Komponenty State i Stateless Parent przekazuje stan do Child i renderuje Child. Child renderuje stan otrzymany z Parent
 Parent 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21  # react component import React from &#39;react&#39; import ReactDOM from &#39;react-dom&#39; import {Child} from &#39;./Child&#39; class Parent extends React.Component { constructor(props) { super(props); this.state = { name: &#39;Value&#39; }; } render() { return &lt;Child name={this.]]></description>
+</item><item>
+    <title>Mindshift, a course on learning</title>
+    <link>https://krzysiekwie.github.io/hugowie/posts/mindshift-learning-2/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugowie/posts/mindshift-learning-2/</guid>
+    <description><![CDATA[Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential by McMaster University (on Coursera)[https://www.coursera.org/learn/mindshift/home/welcome]
+Week 1
+Week 2 Advantage of poor memory Because there are roughly 4 working memory slots in the brain and 4 memory/thought neural chunks can be held there at any given moment, pulling in or losing active chunks from working memory activates diffuse mode and results in more creative solutions to problems.
+Meditation types and brain moded focus meditation (sound, mantra, chakra)]]></description>
 </item></channel>
 </rss>

@@ -41,5 +41,31 @@ git init git clone URL
 git init creates .git/ (git directory) in the current directory, the &ldquo;working tree&rdquo; is the current/parent directory that contains .git/
 The git directory contains all the changes and their history and the working tree contains the current versions of the files.
 The git directory acts as a database for all the changes tracked in Git and the working tree acts as a sandbox where we can edit the current versions of the files.]]></description>
+</item><item>
+    <title>Mindshift, a course on learning</title>
+    <link>https://krzysiekwie.github.io/hugowie/posts/mindshift-learning-2/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugowie/posts/mindshift-learning-2/</guid>
+    <description><![CDATA[Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential by McMaster University (on Coursera)[https://www.coursera.org/learn/mindshift/home/welcome]
+Week 1
+Week 2 Advantage of poor memory Because there are roughly 4 working memory slots in the brain and 4 memory/thought neural chunks can be held there at any given moment, pulling in or losing active chunks from working memory activates diffuse mode and results in more creative solutions to problems.
+Meditation types and brain moded focus meditation (sound, mantra, chakra)]]></description>
+</item><item>
+    <title>Mindshift, a course on learning</title>
+    <link>https://krzysiekwie.github.io/hugowie/posts/mindshift-learning-3/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugowie/posts/mindshift-learning-3/</guid>
+    <description><![CDATA[Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential by McMaster University (on Coursera)[https://www.coursera.org/learn/mindshift/home/welcome]
+Week 1 The unexpected assets from your past&ndash;and breaking through initial feelings of incompetence This is not entirely unexpected: I&rsquo;ve been a hobbyist programmer for around 30 years now, started as a kid, then on and off used simple scripts for work and bits and pieces of web design for personal projects. At work I&rsquo;ve been meeting IT managers and experienced developers and felt a great gap between their expertise and my limited understanding of programming.]]></description>
+</item><item>
+    <title>Mindshift, a course on learning</title>
+    <link>https://krzysiekwie.github.io/hugowie/posts/mindshift-learning/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugowie/posts/mindshift-learning/</guid>
+    <description><![CDATA[Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential by McMaster University (on Coursera)[https://www.coursera.org/learn/mindshift/home/welcome]
+Week 1 The unexpected assets from your past&ndash;and breaking through initial feelings of incompetence This is not entirely unexpected: I&rsquo;ve been a hobbyist programmer for around 30 years now, started as a kid, then on and off used simple scripts for work and bits and pieces of web design for personal projects. At work I&rsquo;ve been meeting IT managers and experienced developers and felt a great gap between their expertise and my limited understanding of programming.]]></description>
 </item></channel>
 </rss>

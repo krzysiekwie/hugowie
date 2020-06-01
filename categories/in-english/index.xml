@@ -1,38 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>coursera - Tag - notes in hugo</title>
-        <link>https://krzysiekwie.github.io/hugowie/tags/coursera/</link>
-        <description>coursera - Tag - notes in hugo</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 10 Apr 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugowie/tags/coursera/" rel="self" type="application/rss+xml" /><item>
-    <title>Quick and dirty Python scripts</title>
-    <link>https://krzysiekwie.github.io/hugowie/posts/python-scripts-marketing/</link>
-    <pubDate>Fri, 10 Apr 2020 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://krzysiekwie.github.io/hugowie/posts/python-scripts-marketing/</guid>
-    <description><![CDATA[Couple small scripts for Marketing Analytics calculations
- Customer Lifetime Value Break Even Units total net profit  in Marketing experiments]]></description>
-</item><item>
-    <title>Python: list comprehension</title>
-    <link>https://krzysiekwie.github.io/hugowie/posts/python-list-compregension/</link>
-    <pubDate>Mon, 16 Mar 2020 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://krzysiekwie.github.io/hugowie/posts/python-list-compregension/</guid>
-    <description><![CDATA[cała lista new_list = [element.method() for element in old_list]
-wrunkowo z if new_list = [element.method() for element in old_list if element = &ldquo;chosen&rdquo;]
-warunkowo z if/else new_list = [element.method() if element != &ldquo;exception&rdquo; else element.exception_method() for element in old_list]]]></description>
-</item><item>
-    <title>notatki z git</title>
-    <link>https://krzysiekwie.github.io/hugowie/posts/notes-on-git/</link>
-    <pubDate>Tue, 03 Mar 2020 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://krzysiekwie.github.io/hugowie/posts/notes-on-git/</guid>
-    <description><![CDATA[notatki z kursu o git na Courserze Większość materiałów pochodzi z Coursery
-on setting new email and privacy
-git init git clone URL
-git init creates .git/ (git directory) in the current directory, the &ldquo;working tree&rdquo; is the current/parent directory that contains .git/
-The git directory contains all the changes and their history and the working tree contains the current versions of the files.
-The git directory acts as a database for all the changes tracked in Git and the working tree acts as a sandbox where we can edit the current versions of the files.]]></description>
-</item><item>
+        <title>in English - Category - notes in hugo</title>
+        <link>https://krzysiekwie.github.io/hugowie/categories/in-english/</link>
+        <description>in English - Category - notes in hugo</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://krzysiekwie.github.io/hugowie/categories/in-english/" rel="self" type="application/rss+xml" /><item>
     <title>Mindshift, a course on learning</title>
     <link>https://krzysiekwie.github.io/hugowie/posts/mindshift-learning-2/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
