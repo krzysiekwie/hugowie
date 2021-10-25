@@ -3,7 +3,17 @@
         <title>All Posts - notes in hugo</title>
         <link>https://krzysiekwie.github.io/hugowie/posts/</link>
         <description>All Posts | notes in hugo</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugowie/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 25 Oct 2021 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugowie/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>git po polsku</title>
+    <link>https://krzysiekwie.github.io/hugowie/posts/git-po-polsku/</link>
+    <pubDate>Mon, 25 Oct 2021 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugowie/posts/git-po-polsku/</guid>
+    <description><![CDATA[To już chyba rok i dopiero teraz mam przykład negatywnej (1) konsekwencji zmiany master na main. Przy tłumaczeniu learnGitBranching trochę bez sensu wydawał się podtytuł
+&ldquo;name&rdquo;: { &ldquo;en_US&rdquo;: &ldquo;Push Main!&quot;,
+w jednym z plików o bardziej zaawansowanych zastosowaniach git push. Co tu się zadziało?
+Przy znajdz-zamień &ldquo;Push Master&rdquo; stał się &ldquo;Push Mainem&rdquo; Po polsku mógłby zostać &ldquo;Mistrz puszowania&rdquo;&hellip; gdyby jeszcze push dało się tłumaczyć jak &ldquo;wyciskanie&rdquo; to skojarzenie sportowe byłoby jak znalazł.]]></description>
+</item><item>
     <title>Mindshift, a course on learning - week 2</title>
     <link>https://krzysiekwie.github.io/hugowie/posts/mindshift-learning-2/</link>
     <pubDate>Mon, 01 Jun 2020 00:00:00 &#43;0000</pubDate>
@@ -84,14 +94,5 @@ szybkim skryptem z gałęzią gh-pages w katalogu /public
     <author>Author</author>
     <guid>https://krzysiekwie.github.io/hugowie/posts/ruby-web-scrape/</guid>
     <description><![CDATA[Ruby chciałem wypróbować od kiedy zrobiło się o nim głośno na podcastach TWiT, a potem jeszcze bardziej kiedy przeczytałem Codex. Ale nie było okazji i dopiero dzisiaj wróciłem do tematu. Jak na początek i pierwszy raz - baprawdę szybko poszło. Mój pierwszy w życiu skrypt w Ruby (oparty na dwóch tutorialach) napisałem zanim na dobre zdecydowałem czy lepiej będzie zainstalować Ruby z rbenv czy rvm.]]></description>
-</item><item>
-    <title>Python: list comprehension</title>
-    <link>https://krzysiekwie.github.io/hugowie/posts/python-list-compregension/</link>
-    <pubDate>Mon, 16 Mar 2020 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://krzysiekwie.github.io/hugowie/posts/python-list-compregension/</guid>
-    <description><![CDATA[cała lista new_list = [element.method() for element in old_list]
-wrunkowo z if new_list = [element.method() for element in old_list if element = &ldquo;chosen&rdquo;]
-warunkowo z if/else new_list = [element.method() if element != &ldquo;exception&rdquo; else element.exception_method() for element in old_list]]]></description>
 </item></channel>
 </rss>
