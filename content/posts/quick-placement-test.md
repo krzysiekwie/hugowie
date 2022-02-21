@@ -1,7 +1,7 @@
 ---
 title: "Szybki test poziomujący " 
 date: 2019-09-25 #YYYY-MM-DD(TT18:36:41+02:00)
-draft: true #false
+draft: false
 categories:
    - kursy
    - scripts
