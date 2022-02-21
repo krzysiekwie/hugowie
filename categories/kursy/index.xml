@@ -3,8 +3,16 @@
         <title>kursy - Category - notes in hugo</title>
         <link>https://krzysiekwie.github.io/hugowie/categories/kursy/</link>
         <description>kursy - Category - notes in hugo</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 21 Dec 2021 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugowie/categories/kursy/" rel="self" type="application/rss+xml" /><item>
-    <title></title>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 10 Jan 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugowie/categories/kursy/" rel="self" type="application/rss+xml" /><item>
+    <title>Wordle</title>
+    <link>https://krzysiekwie.github.io/hugowie/posts/wordle/</link>
+    <pubDate>Mon, 10 Jan 2022 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugowie/posts/wordle/</guid>
+    <description><![CDATA[I didn&rsquo;t really feel the need to share Wordle with others. And then I saw an article about it in Guardian.
+It&rsquo;s a really effective and well structured explanation of how phonotactics (sonority sequencing) works in building words. And I needed en example of how to explain complex matters in a simple way for one of the courses I teach. The fact that the author of Wordle is the same guy who was behind the reddit place was an extra incentive.]]></description>
+</item><item>
+    <title>Flashcards in Logseq</title>
     <link>https://krzysiekwie.github.io/hugowie/posts/logseq-for-study/</link>
     <pubDate>Tue, 21 Dec 2021 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
