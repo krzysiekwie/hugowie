@@ -2,3 +2,4 @@ public
 node_modules
 /content/posts/_draft*
 *.sh
+.hugo_build.lock
