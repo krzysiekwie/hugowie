@@ -7,26 +7,26 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
         <title>git po polsku - notes in hugo</title><meta name="Description" content="This is My New Hugo Site"><meta property="og:title" content="git po polsku" />
 <meta property="og:description" content="To już chyba rok i dopiero teraz mam przykład negatywnej (1) konsekwencji zmiany master na main. Przy tłumaczeniu learnGitBranching trochę bez sensu wydawał się podtytuł
-&ldquo;name&rdquo;: { &ldquo;en_US&rdquo;: &ldquo;Push Main!&quot;,
+&ldquo;name&rdquo;: { &ldquo;en_US&rdquo;: &ldquo;Push Main!&rdquo;,
 w jednym z plików o bardziej zaawansowanych zastosowaniach git push. Co tu się zadziało?
 Przy znajdz-zamień &ldquo;Push Master&rdquo; stał się &ldquo;Push Mainem&rdquo; Po polsku mógłby zostać &ldquo;Mistrz puszowania&rdquo;&hellip; gdyby jeszcze push dało się tłumaczyć jak &ldquo;wyciskanie&rdquo; to skojarzenie sportowe byłoby jak znalazł." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://krzysiekwie.github.io/hugowie/posts/git-po-polsku/" />
-<meta property="og:image" content="https://krzysiekwie.github.io/logo.png"/>
+<meta property="og:url" content="https://krzysiekwie.github.io/hugowie/posts/git-po-polsku/" /><meta property="og:image" content="https://krzysiekwie.github.io/logo.png"/><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2021-10-25T00:00:00+00:00" />
 <meta property="article:modified_time" content="2021-10-25T00:00:00+00:00" />
+
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://krzysiekwie.github.io/logo.png"/>
 
 <meta name="twitter:title" content="git po polsku"/>
 <meta name="twitter:description" content="To już chyba rok i dopiero teraz mam przykład negatywnej (1) konsekwencji zmiany master na main. Przy tłumaczeniu learnGitBranching trochę bez sensu wydawał się podtytuł
-&ldquo;name&rdquo;: { &ldquo;en_US&rdquo;: &ldquo;Push Main!&quot;,
+&ldquo;name&rdquo;: { &ldquo;en_US&rdquo;: &ldquo;Push Main!&rdquo;,
 w jednym z plików o bardziej zaawansowanych zastosowaniach git push. Co tu się zadziało?
 Przy znajdz-zamień &ldquo;Push Master&rdquo; stał się &ldquo;Push Mainem&rdquo; Po polsku mógłby zostać &ldquo;Mistrz puszowania&rdquo;&hellip; gdyby jeszcze push dało się tłumaczyć jak &ldquo;wyciskanie&rdquo; to skojarzenie sportowe byłoby jak znalazł."/>
 <meta name="application-name" content="LoveIt">
 <meta name="apple-mobile-web-app-title" content="LoveIt"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://krzysiekwie.github.io/hugowie/posts/git-po-polsku/" /><link rel="prev" href="https://krzysiekwie.github.io/hugowie/posts/mindshift-learning-2/" /><link rel="stylesheet" href="/hugowie/lib/normalize/normalize.min.css"><link rel="stylesheet" href="/hugowie/css/style.min.css"><link rel="stylesheet" href="/hugowie/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/hugowie/lib/animate/animate.min.css"><script type="application/ld+json">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://krzysiekwie.github.io/hugowie/posts/git-po-polsku/" /><link rel="prev" href="https://krzysiekwie.github.io/hugowie/posts/mindshift-learning-2/" /><link rel="next" href="https://krzysiekwie.github.io/hugowie/posts/learngitbranching/" /><link rel="stylesheet" href="/hugowie/lib/normalize/normalize.min.css"><link rel="stylesheet" href="/hugowie/css/style.min.css"><link rel="stylesheet" href="/hugowie/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/hugowie/lib/animate/animate.min.css"><script type="application/ld+json">
     {
         "@context": "http://schema.org",
         "@type": "BlogPosting",
@@ -138,7 +138,7 @@ Przy znajdz-zamień &ldquo;Push Master&rdquo; stał się &ldquo;Push Mainem&rdqu
                 <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents"></nav></div>
             </div><div class="content" id="content"><p>To już chyba rok i dopiero teraz mam przykład negatywnej (1) konsekwencji zmiany <code>master</code> na <code>main</code>. Przy tłumaczeniu learnGitBranching trochę bez sensu wydawał się podtytuł</p>
 <p>&ldquo;name&rdquo;: {
-&ldquo;en_US&rdquo;: &ldquo;Push Main!&quot;,</p>
+&ldquo;en_US&rdquo;: &ldquo;Push Main!&rdquo;,</p>
 <p>w jednym z plików o bardziej zaawansowanych zastosowaniach <code>git push</code>. Co tu się zadziało?</p>
 <p>Przy znajdz-zamień &ldquo;Push Master&rdquo; stał się &ldquo;Push Mainem&rdquo; Po polsku mógłby zostać &ldquo;Mistrz puszowania&rdquo;&hellip; gdyby jeszcze push dało się tłumaczyć jak &ldquo;wyciskanie&rdquo; to skojarzenie sportowe byłoby jak znalazł. Tylko rodzaj męski &ldquo;mistrza&rdquo; trochę mi się nie podoba&hellip;</p>
 <p>Long story short:</p>
@@ -167,14 +167,15 @@ Przy znajdz-zamień &ldquo;Push Master&rdquo; stał się &ldquo;Push Mainem&rdqu
         </section>
     </div>
 
-    <div class="post-nav"><a href="/hugowie/posts/mindshift-learning-2/" class="prev" rel="prev" title="Mindshift, a course on learning - week 2"><i class="fas fa-angle-left fa-fw"></i>Mindshift, a course on learning - week 2</a></div>
+    <div class="post-nav"><a href="/hugowie/posts/mindshift-learning-2/" class="prev" rel="prev" title="Mindshift, a course on learning - part 2"><i class="fas fa-angle-left fa-fw"></i>Mindshift, a course on learning - part 2</a>
+            <a href="/hugowie/posts/learngitbranching/" class="next" rel="next" title=""><i class="fas fa-angle-right fa-fw"></i></a></div>
 </div>
 <div id="comments"><div id="disqus_thread" class="comment"></div><noscript>
                 Please enable JavaScript to view the comments powered by <a href="https://disqus.com/?ref_noscript">Disqus</a>.
             </noscript></div></article></div>
             </main><footer class="footer">
-        <div class="footer-container"><div class="footer-line">Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer" title="Hugo 0.70.0">Hugo</a> | Theme - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="noopener noreffer" title="LoveIt 0.2.8"><i class="far fa-kiss-wink-heart fa-fw"></i> LoveIt</a>
-                </div><div class="footer-line"><i class="far fa-copyright fa-fw"></i><span itemprop="copyrightYear">2019 - 2021</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/hugowie/" target="_blank">krzwierz79</a></span>&nbsp;|&nbsp;<span class="license"><a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div>
+        <div class="footer-container"><div class="footer-line">Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer" title="Hugo 0.92.2">Hugo</a> | Theme - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="noopener noreffer" title="LoveIt 0.2.8"><i class="far fa-kiss-wink-heart fa-fw"></i> LoveIt</a>
+                </div><div class="footer-line"><i class="far fa-copyright fa-fw"></i><span itemprop="copyrightYear">2019 - 2022</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/hugowie/" target="_blank">krzwierz79</a></span>&nbsp;|&nbsp;<span class="license"><a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div>
         </div>
     </footer></div>
 

@@ -8,10 +8,10 @@
         <title>JS - shorthand - notes in hugo</title><meta name="Description" content="Pierwszy raz z Ruby"><meta property="og:title" content="JS - shorthand" />
 <meta property="og:description" content="Pierwszy raz z Ruby" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://krzysiekwie.github.io/hugowie/posts/js-shorthand/" />
-<meta property="og:image" content="https://krzysiekwie.github.io/logo.png"/>
+<meta property="og:url" content="https://krzysiekwie.github.io/hugowie/posts/js-shorthand/" /><meta property="og:image" content="https://krzysiekwie.github.io/logo.png"/><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2020-05-20T00:00:00+00:00" />
 <meta property="article:modified_time" content="2020-05-20T00:00:00+00:00" />
+
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://krzysiekwie.github.io/logo.png"/>
 
@@ -147,7 +147,7 @@ jeśli liczba jest mniejsza od 0 lub większa od 140 - <code>'This is not a vali
 <p>nie pamiętam czy na tym etapie kursu pojawiły się już shorthandy ale spróbuję sobie odświeżyć:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt"> 1
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
 </span><span class="lnt"> 3
 </span><span class="lnt"> 4
@@ -162,7 +162,7 @@ jeśli liczba jest mniejsza od 0 lub większa od 140 - <code>'This is not a vali
 </span><span class="lnt">13
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-javascript" data-lang="javascript"><span class="kd">function</span> <span class="nx">lifePhase</span><span class="p">(</span><span class="nx">age</span><span class="p">)</span> <span class="p">{</span>
+<pre tabindex="0" class="chroma"><code class="language-javascript" data-lang="javascript"><span class="kd">function</span> <span class="nx">lifePhase</span><span class="p">(</span><span class="nx">age</span><span class="p">)</span> <span class="p">{</span>
   <span class="k">return</span> <span class="mi">0</span> <span class="o">&gt;</span> <span class="nx">age</span> <span class="o">||</span> <span class="nx">age</span> <span class="o">&gt;</span> <span class="mi">140</span>
     <span class="o">?</span> <span class="s2">&#34;This is not a valid age&#34;</span>
     <span class="o">:</span> <span class="nx">age</span> <span class="o">&lt;</span> <span class="mi">4</span>
@@ -177,11 +177,11 @@ jeśli liczba jest mniejsza od 0 lub większa od 140 - <code>'This is not a vali
 <span class="p">}</span>
 </code></pre></td></tr></table>
 </div>
-</div><p><a href="https://www.sitepoint.com/shorthand-javascript-techniques/">https://www.sitepoint.com/shorthand-javascript-techniques/</a></p>
+</div><p><a href="https://www.sitepoint.com/shorthand-javascript-techniques/" target="_blank" rel="noopener noreffer">https://www.sitepoint.com/shorthand-javascript-techniques/</a></p>
 <p>chyba jednak shorthandy musiały się pojawić bo gdzieś dalej jest;</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt"> 1
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
 </span><span class="lnt"> 3
 </span><span class="lnt"> 4
@@ -201,7 +201,7 @@ jeśli liczba jest mniejsza od 0 lub większa od 140 - <code>'This is not a vali
 </span><span class="lnt">18
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-javascript" data-lang="javascript"><span class="kr">const</span> <span class="nx">truthyOrFalsy</span> <span class="o">=</span> <span class="p">(</span><span class="nx">value</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
+<pre tabindex="0" class="chroma"><code class="language-javascript" data-lang="javascript"><span class="kr">const</span> <span class="nx">truthyOrFalsy</span> <span class="o">=</span> <span class="p">(</span><span class="nx">value</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
   <span class="k">if</span> <span class="p">(</span><span class="nx">value</span><span class="p">)</span> <span class="p">{</span>
     <span class="k">return</span> <span class="kc">true</span><span class="p">;</span>
   <span class="p">}</span>
@@ -224,18 +224,18 @@ jeśli liczba jest mniejsza od 0 lub większa od 140 - <code>'This is not a vali
 </div><p>a nawet coś w rodzaju:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-javascript" data-lang="javascript"><span class="kr">const</span> <span class="nx">motivateMe</span> <span class="o">=</span> <span class="p">(</span><span class="nx">adjective</span><span class="p">,</span> <span class="nx">verb</span><span class="p">,</span> <span class="nx">noun</span><span class="p">)</span> <span class="p">=&gt;</span>
+<pre tabindex="0" class="chroma"><code class="language-javascript" data-lang="javascript"><span class="kr">const</span> <span class="nx">motivateMe</span> <span class="o">=</span> <span class="p">(</span><span class="nx">adjective</span><span class="p">,</span> <span class="nx">verb</span><span class="p">,</span> <span class="nx">noun</span><span class="p">)</span> <span class="p">=&gt;</span>
   <span class="sb">`I am so </span><span class="si">${</span><span class="nx">adjective</span><span class="si">}</span><span class="sb"> because I </span><span class="si">${</span><span class="nx">verb</span><span class="si">}</span><span class="sb"> shorthands! Time to refactor some more long </span><span class="si">${</span><span class="nx">noun</span><span class="si">}</span><span class="sb">!`</span><span class="p">;</span>
 </code></pre></td></tr></table>
 </div>
 </div><p>a zaraz potem wyjaśnienie że deklaracja funkcji albo łączenie łańcuchów znaków (concatenation) też jest ok. (tylko że tak samo bolesne jak napisanie &ldquo;łączenie łańcuchów znaków&rdquo;)</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt"> 1
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
 </span><span class="lnt"> 3
 </span><span class="lnt"> 4
@@ -252,7 +252,7 @@ jeśli liczba jest mniejsza od 0 lub większa od 140 - <code>'This is not a vali
 </span><span class="lnt">15
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-javascript" data-lang="javascript"><span class="kr">const</span> <span class="nx">howOld</span> <span class="o">=</span> <span class="p">(</span><span class="nx">age</span><span class="p">,</span> <span class="nx">year</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
+<pre tabindex="0" class="chroma"><code class="language-javascript" data-lang="javascript"><span class="kr">const</span> <span class="nx">howOld</span> <span class="o">=</span> <span class="p">(</span><span class="nx">age</span><span class="p">,</span> <span class="nx">year</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
   <span class="c1">// jaki mamy rok?
 </span><span class="c1"></span>  <span class="kd">let</span> <span class="nx">dateToday</span> <span class="o">=</span> <span class="k">new</span> <span class="nb">Date</span><span class="p">();</span>
   <span class="kd">let</span> <span class="nx">thisYear</span> <span class="o">=</span> <span class="nx">dateToday</span><span class="p">.</span><span class="nx">getFullYear</span><span class="p">();</span>
@@ -299,8 +299,8 @@ jeśli liczba jest mniejsza od 0 lub większa od 140 - <code>'This is not a vali
                 Please enable JavaScript to view the comments powered by <a href="https://disqus.com/?ref_noscript">Disqus</a>.
             </noscript></div></article></div>
             </main><footer class="footer">
-        <div class="footer-container"><div class="footer-line">Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer" title="Hugo 0.70.0">Hugo</a> | Theme - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="noopener noreffer" title="LoveIt 0.2.8"><i class="far fa-kiss-wink-heart fa-fw"></i> LoveIt</a>
-                </div><div class="footer-line"><i class="far fa-copyright fa-fw"></i><span itemprop="copyrightYear">2019 - 2021</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/hugowie/" target="_blank">krzwierz79</a></span>&nbsp;|&nbsp;<span class="license"><a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div>
+        <div class="footer-container"><div class="footer-line">Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer" title="Hugo 0.92.2">Hugo</a> | Theme - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="noopener noreffer" title="LoveIt 0.2.8"><i class="far fa-kiss-wink-heart fa-fw"></i> LoveIt</a>
+                </div><div class="footer-line"><i class="far fa-copyright fa-fw"></i><span itemprop="copyrightYear">2019 - 2022</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/hugowie/" target="_blank">krzwierz79</a></span>&nbsp;|&nbsp;<span class="license"><a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div>
         </div>
     </footer></div>
 

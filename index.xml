@@ -4,34 +4,44 @@
         <link>https://krzysiekwie.github.io/hugowie/</link>
         <description>This is My New Hugo Site</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 25 Oct 2021 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugowie/" rel="self" type="application/rss+xml" /><item>
+    <title></title>
+    <link>https://krzysiekwie.github.io/hugowie/posts/learngitbranching/</link>
+    <pubDate>Mon, 25 Oct 2021 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugowie/posts/learngitbranching/</guid>
+    <description><![CDATA[To już chyba rok ale nawet w Polsce mam przykład negatywnej konsekwencji zmiany master na main. Przy tłumaczeniu learnGitBranching trochę bez sensu wydawał się podtytuł
+&ldquo;name&rdquo;: { &ldquo;en_US&rdquo;: &ldquo;Push Main!&rdquo;,
+w jednym z plików o bardziej zaawanowanych zastosowaniach git push. Co tu się zadziało?
+Przy znajdz-zamień &ldquo;Push Master&rdquo; stał się &ldquo;Push Mainem&rdquo; Po polsku mógłby zostać &ldquo;Mistrz puszowania&rdquo;&hellip; gdyby jeszcze push dało się tłumaczyć jak &ldquo;wyciskanie&rdquo; to skojarzenie sportowe byłoby jak znalazł.]]></description>
+</item><item>
     <title>git po polsku</title>
     <link>https://krzysiekwie.github.io/hugowie/posts/git-po-polsku/</link>
     <pubDate>Mon, 25 Oct 2021 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
     <guid>https://krzysiekwie.github.io/hugowie/posts/git-po-polsku/</guid>
     <description><![CDATA[To już chyba rok i dopiero teraz mam przykład negatywnej (1) konsekwencji zmiany master na main. Przy tłumaczeniu learnGitBranching trochę bez sensu wydawał się podtytuł
-&ldquo;name&rdquo;: { &ldquo;en_US&rdquo;: &ldquo;Push Main!&quot;,
+&ldquo;name&rdquo;: { &ldquo;en_US&rdquo;: &ldquo;Push Main!&rdquo;,
 w jednym z plików o bardziej zaawansowanych zastosowaniach git push. Co tu się zadziało?
 Przy znajdz-zamień &ldquo;Push Master&rdquo; stał się &ldquo;Push Mainem&rdquo; Po polsku mógłby zostać &ldquo;Mistrz puszowania&rdquo;&hellip; gdyby jeszcze push dało się tłumaczyć jak &ldquo;wyciskanie&rdquo; to skojarzenie sportowe byłoby jak znalazł.]]></description>
 </item><item>
-    <title>Mindshift, a course on learning - week 2</title>
+    <title>Mindshift, a course on learning - part 2</title>
     <link>https://krzysiekwie.github.io/hugowie/posts/mindshift-learning-2/</link>
     <pubDate>Mon, 01 Jun 2020 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
     <guid>https://krzysiekwie.github.io/hugowie/posts/mindshift-learning-2/</guid>
     <description><![CDATA[Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential by McMaster University on Coursera
-Week 1
-Week 2 Advantage of poor memory Because there are roughly 4 working memory slots in the brain and 4 memory/thought neural chunks can be held there at any given moment, pulling in or losing active chunks from working memory activates diffuse mode and results in more creative solutions to problems.
+Part 1
+Part 2 Advantage of poor memory Because there are roughly 4 working memory slots in the brain and 4 memory/thought neural chunks can be held there at any given moment, pulling in or losing active chunks from working memory activates diffuse mode and results in more creative solutions to problems.
 Meditation types and brain moded focus meditation (sound, mantra, chakra)]]></description>
 </item><item>
-    <title>Mindshift, a course on learning - week 3</title>
+    <title>Mindshift, a course on learning - part 3</title>
     <link>https://krzysiekwie.github.io/hugowie/posts/mindshift-learning-3/</link>
     <pubDate>Mon, 01 Jun 2020 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
     <guid>https://krzysiekwie.github.io/hugowie/posts/mindshift-learning-3/</guid>
     <description><![CDATA[Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential by McMaster University on Coursera
-Week 1 Week 2
-Week 3 noradrenaline interconnected with serotonin: mental and physical activity, sustained motivation and drive
+Part 1 Part 2
+Part 3 noradrenaline interconnected with serotonin: mental and physical activity, sustained motivation and drive
 dopamine high levels good mood, energized, extroverted increased weight of reward (thus key in positive reinforcement training) goes up with unexpected reward appearance goes down with non-appearance of an expected reward
 Pushback dabble learn gradually and slowly, and grow with the change, letting others adapt]]></description>
 </item><item>
@@ -49,7 +59,7 @@ Zwykłe ćwicznie niby nic, ale fakt że wartościami są karty tarota a teksty 
     <author>Author</author>
     <guid>https://krzysiekwie.github.io/hugowie/posts/mindshift-learning/</guid>
     <description><![CDATA[Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential by McMaster University on Coursera
-Week 1 The unexpected assets from your past&ndash;and breaking through initial feelings of incompetence This is not entirely unexpected: I&rsquo;ve been a hobbyist programmer for around 30 years now, started as a kid, then on and off used simple scripts for work and bits and pieces of web design for personal projects. At work I&rsquo;ve been meeting IT managers and experienced developers and felt a great gap between their expertise and my limited understanding of programming.]]></description>
+Part 1 The unexpected assets from your past&ndash;and breaking through initial feelings of incompetence This is not entirely unexpected: I&rsquo;ve been a hobbyist programmer for around 30 years now, started as a kid, then on and off used simple scripts for work and bits and pieces of web design for personal projects. At work I&rsquo;ve been meeting IT managers and experienced developers and felt a great gap between their expertise and my limited understanding of programming.]]></description>
 </item><item>
     <title>Matlab - IDE vs notepad</title>
     <link>https://krzysiekwie.github.io/hugowie/posts/matlab-first-function/</link>
@@ -87,12 +97,5 @@ szybkim skryptem z gałęzią gh-pages w katalogu /public
     <guid>https://krzysiekwie.github.io/hugowie/posts/python-scripts-marketing/</guid>
     <description><![CDATA[Couple small scripts for Marketing Analytics calculations
  Customer Lifetime Value Break Even Units total net profit  in Marketing experiments]]></description>
-</item><item>
-    <title>Ruby - hello world plus</title>
-    <link>https://krzysiekwie.github.io/hugowie/posts/ruby-web-scrape/</link>
-    <pubDate>Fri, 10 Apr 2020 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://krzysiekwie.github.io/hugowie/posts/ruby-web-scrape/</guid>
-    <description><![CDATA[Ruby chciałem wypróbować od kiedy zrobiło się o nim głośno na podcastach TWiT, a potem jeszcze bardziej kiedy przeczytałem Codex. Ale nie było okazji i dopiero dzisiaj wróciłem do tematu. Jak na początek i pierwszy raz - baprawdę szybko poszło. Mój pierwszy w życiu skrypt w Ruby (oparty na dwóch tutorialach) napisałem zanim na dobre zdecydowałem czy lepiej będzie zainstalować Ruby z rbenv czy rvm.]]></description>
 </item></channel>
 </rss>

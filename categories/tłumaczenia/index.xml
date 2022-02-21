@@ -4,13 +4,23 @@
         <link>https://krzysiekwie.github.io/hugowie/categories/t%C5%82umaczenia/</link>
         <description>tłumaczenia - Category - notes in hugo</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 25 Oct 2021 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugowie/categories/t%C5%82umaczenia/" rel="self" type="application/rss+xml" /><item>
+    <title></title>
+    <link>https://krzysiekwie.github.io/hugowie/posts/learngitbranching/</link>
+    <pubDate>Mon, 25 Oct 2021 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugowie/posts/learngitbranching/</guid>
+    <description><![CDATA[To już chyba rok ale nawet w Polsce mam przykład negatywnej konsekwencji zmiany master na main. Przy tłumaczeniu learnGitBranching trochę bez sensu wydawał się podtytuł
+&ldquo;name&rdquo;: { &ldquo;en_US&rdquo;: &ldquo;Push Main!&rdquo;,
+w jednym z plików o bardziej zaawanowanych zastosowaniach git push. Co tu się zadziało?
+Przy znajdz-zamień &ldquo;Push Master&rdquo; stał się &ldquo;Push Mainem&rdquo; Po polsku mógłby zostać &ldquo;Mistrz puszowania&rdquo;&hellip; gdyby jeszcze push dało się tłumaczyć jak &ldquo;wyciskanie&rdquo; to skojarzenie sportowe byłoby jak znalazł.]]></description>
+</item><item>
     <title>git po polsku</title>
     <link>https://krzysiekwie.github.io/hugowie/posts/git-po-polsku/</link>
     <pubDate>Mon, 25 Oct 2021 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
     <guid>https://krzysiekwie.github.io/hugowie/posts/git-po-polsku/</guid>
     <description><![CDATA[To już chyba rok i dopiero teraz mam przykład negatywnej (1) konsekwencji zmiany master na main. Przy tłumaczeniu learnGitBranching trochę bez sensu wydawał się podtytuł
-&ldquo;name&rdquo;: { &ldquo;en_US&rdquo;: &ldquo;Push Main!&quot;,
+&ldquo;name&rdquo;: { &ldquo;en_US&rdquo;: &ldquo;Push Main!&rdquo;,
 w jednym z plików o bardziej zaawansowanych zastosowaniach git push. Co tu się zadziało?
 Przy znajdz-zamień &ldquo;Push Master&rdquo; stał się &ldquo;Push Mainem&rdquo; Po polsku mógłby zostać &ldquo;Mistrz puszowania&rdquo;&hellip; gdyby jeszcze push dało się tłumaczyć jak &ldquo;wyciskanie&rdquo; to skojarzenie sportowe byłoby jak znalazł.]]></description>
 </item></channel>

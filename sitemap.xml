@@ -2,6 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://krzysiekwie.github.io/hugowie/posts/learngitbranching/</loc><lastmod>2021-10-25T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugowie/categories/</loc><lastmod>2021-10-25T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugowie/tags/git/</loc><lastmod>2021-10-25T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugowie/posts/git-po-polsku/</loc><lastmod>2021-10-25T00:00:00&#43;00:00</lastmod></url><url>
@@ -9,7 +10,6 @@
             <loc>https://krzysiekwie.github.io/hugowie/posts/</loc><lastmod>2021-10-25T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugowie/tags/</loc><lastmod>2021-10-25T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugowie/categories/t%C5%82umaczenia/</loc><lastmod>2021-10-25T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://krzysiekwie.github.io/hugowie/tags/course/</loc><lastmod>2020-06-01T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugowie/tags/coursera/</loc><lastmod>2020-06-01T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugowie/categories/in-english/</loc><lastmod>2020-06-01T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugowie/categories/kursy/</loc><lastmod>2020-06-01T00:00:00&#43;00:00</lastmod></url><url>
@@ -21,6 +21,7 @@
             <loc>https://krzysiekwie.github.io/hugowie/posts/codecademy-tarot/</loc><lastmod>2020-05-27T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugowie/posts/mindshift-learning/</loc><lastmod>2020-05-25T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugowie/tags/boilerplate/</loc><lastmod>2020-05-22T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://krzysiekwie.github.io/hugowie/tags/course/</loc><lastmod>2020-05-22T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugowie/posts/matlab-first-function/</loc><lastmod>2020-05-22T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugowie/tags/snippets/</loc><lastmod>2020-05-22T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://krzysiekwie.github.io/hugowie/categories/javascirpt/</loc><lastmod>2020-05-20T00:00:00&#43;00:00</lastmod></url><url>
