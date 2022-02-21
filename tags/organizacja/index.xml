@@ -11,6 +11,14 @@
     <guid>https://krzysiekwie.github.io/hugowie/posts/visualise-needs-on-observable/</guid>
     <description><![CDATA[It&rsquo;s always helpful to visualise where you are and where you want to be. When I teach developers to use English I like to use this Observable to diagram their areas of interests and needs across the standard EFL scope. This notebook lets them think about what they need and want to improve on and having me make the necessary changes to the code (or they can fork it) is a good first attempt at talking someone (me) through some code they&rsquo;re not entirely familiar with.]]></description>
 </item><item>
+    <title></title>
+    <link>https://krzysiekwie.github.io/hugowie/posts/logseq-for-study/</link>
+    <pubDate>Tue, 21 Dec 2021 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugowie/posts/logseq-for-study/</guid>
+    <description><![CDATA[Logseq /log-seek/ ma wreszcie desktopowego klienta i (chyba) nową funkcję, dzięki której warto na niego zwrócić uwagę - wbudowane fiszki
+czym w ogóle jest Logseq Logseq (logseq.com) podobnie jak Obsidian albo Roam to program z (coraz bardziej) popularnej rodziny rozbudowanych narzędzi do notowania (jak MS OneNote, albo Evernote). W odróżnieniu od pozostałych jest darmowym open-source. Inaczej niż w Obsidianie głównym elementem nie jest notka (plik .md) ale node (punkt listy w pliku .]]></description>
+</item><item>
     <title>Początki Z Hugo</title>
     <link>https://krzysiekwie.github.io/hugowie/posts/hugo-start/</link>
     <pubDate>Mon, 18 May 2020 17:37:02 &#43;0200</pubDate>

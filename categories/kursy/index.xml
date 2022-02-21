@@ -3,7 +3,15 @@
         <title>kursy - Category - notes in hugo</title>
         <link>https://krzysiekwie.github.io/hugowie/categories/kursy/</link>
         <description>kursy - Category - notes in hugo</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugowie/categories/kursy/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 21 Dec 2021 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugowie/categories/kursy/" rel="self" type="application/rss+xml" /><item>
+    <title></title>
+    <link>https://krzysiekwie.github.io/hugowie/posts/logseq-for-study/</link>
+    <pubDate>Tue, 21 Dec 2021 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugowie/posts/logseq-for-study/</guid>
+    <description><![CDATA[Logseq /log-seek/ ma wreszcie desktopowego klienta i (chyba) nową funkcję, dzięki której warto na niego zwrócić uwagę - wbudowane fiszki
+czym w ogóle jest Logseq Logseq (logseq.com) podobnie jak Obsidian albo Roam to program z (coraz bardziej) popularnej rodziny rozbudowanych narzędzi do notowania (jak MS OneNote, albo Evernote). W odróżnieniu od pozostałych jest darmowym open-source. Inaczej niż w Obsidianie głównym elementem nie jest notka (plik .md) ale node (punkt listy w pliku .]]></description>
+</item><item>
     <title>Mindshift, a course on learning - part 2</title>
     <link>https://krzysiekwie.github.io/hugowie/posts/mindshift-learning-2/</link>
     <pubDate>Mon, 01 Jun 2020 00:00:00 &#43;0000</pubDate>
