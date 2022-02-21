@@ -1,7 +1,7 @@
 ---
 title: "Open Source po polsku"
 date: 2021-09-21 #YYYY-MM-DD(TT18:36:41+02:00)
-draft: true #false
+draft: false
 categories:
   # - kursy
   # - scripts
