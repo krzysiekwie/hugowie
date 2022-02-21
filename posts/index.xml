@@ -37,6 +37,22 @@ czym w ogóle jest Logseq Logseq (logseq.com) podobnie jak Obsidian albo Roam to
 w jednym z plików o bardziej zaawansowanych zastosowaniach git push. Co tu się zadziało?
 Przy znajdz-zamień &ldquo;Push Master&rdquo; stał się &ldquo;Push Mainem&rdquo; Po polsku mógłby zostać &ldquo;Mistrz puszowania&rdquo;&hellip; gdyby jeszcze push dało się tłumaczyć jak &ldquo;wyciskanie&rdquo; to skojarzenie sportowe byłoby jak znalazł.]]></description>
 </item><item>
+    <title>Open Source po polsku</title>
+    <link>https://krzysiekwie.github.io/hugowie/posts/open-source-po-polsku/</link>
+    <pubDate>Tue, 21 Sep 2021 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugowie/posts/open-source-po-polsku/</guid>
+    <description><![CDATA[Open Source Licensing Basics for Software Developers czyli podstawy licencjonowania otwartego oprogramowania (it&rsquo;s a mouthful) - już lepiej LFC191 z Linux Foundation dostaje swoją polską wersję. (projekt z UAM)
+Na razie to WIP]]></description>
+</item><item>
+    <title>kopiuj wklej ze stackoverflow</title>
+    <link>https://krzysiekwie.github.io/hugowie/posts/copy-paste-course/</link>
+    <pubDate>Fri, 10 Sep 2021 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugowie/posts/copy-paste-course/</guid>
+    <description><![CDATA[This is weird&hellip; Copying and Pasting from Stack Overflow to według Goodreads rewelacyjna pozycja autorstwa Vinita Nayaka (również Jokes i Jokes Too). Według frontyspisu (i karty tytułowej) to raczej Tariq Ali.
+Memowa okładka Okładka mocno przypomina efekt pracy w generatorze, który dał początek paru memom. Treść Potem jest jeszcze lepiej, weselej i zabawniej ale trudno odmówić autorowi (?) racji. Tak czy inaczej, UAM ceni sobie tę pozycję a dla mnie i moich kursów to świetna, ciekawa i zabawna (trochę inaczej niż The Phoenix/Unicorn Project) odskocznia od codzienności.]]></description>
+</item><item>
     <title>Mindshift, a course on learning - part 2</title>
     <link>https://krzysiekwie.github.io/hugowie/posts/mindshift-learning-2/</link>
     <pubDate>Mon, 01 Jun 2020 00:00:00 &#43;0000</pubDate>
@@ -73,25 +89,5 @@ Zwykłe ćwicznie niby nic, ale fakt że wartościami są karty tarota a teksty 
     <guid>https://krzysiekwie.github.io/hugowie/posts/mindshift-learning/</guid>
     <description><![CDATA[Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential by McMaster University on Coursera
 Part 1 The unexpected assets from your past&ndash;and breaking through initial feelings of incompetence This is not entirely unexpected: I&rsquo;ve been a hobbyist programmer for around 30 years now, started as a kid, then on and off used simple scripts for work and bits and pieces of web design for personal projects. At work I&rsquo;ve been meeting IT managers and experienced developers and felt a great gap between their expertise and my limited understanding of programming.]]></description>
-</item><item>
-    <title>Matlab - IDE vs notepad</title>
-    <link>https://krzysiekwie.github.io/hugowie/posts/matlab-first-function/</link>
-    <pubDate>Fri, 22 May 2020 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://krzysiekwie.github.io/hugowie/posts/matlab-first-function/</guid>
-    <description><![CDATA[Matlab na forum Coursery w kursie mnóstwo ludzi ma problem z napisaniem pierwszej funkcji w testach - nie otwierają się w edytorze na https://matlab.mathworks.com/ tylko w zwykłym textboksie. Tymczasem&hellip;
-edytor funkcji otwiera się z gotowym szablonem
-1 2 3 4 5 6  function[outputArg1,outputArg2] =untitled2(inputArg1,inputArg2)%UNTITLED2 Summary of this function goes here % Detailed explanation goes here outputArg1 = inputArg1; outputArg2 = inputArg2; end   min i max w ćwiczeniu w środku tygodnia główny cel to chyba zmuszenie ludzi do zajrzenia do dokumentacji, bo ma bardzo niewiele wspólnego z filmami z tego tygodnia]]></description>
-</item><item>
-    <title>JS - shorthand</title>
-    <link>https://krzysiekwie.github.io/hugowie/posts/js-shorthand/</link>
-    <pubDate>Wed, 20 May 2020 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://krzysiekwie.github.io/hugowie/posts/js-shorthand/</guid>
-    <description><![CDATA[Takie ćwiczenie na CodeCademy (część ścieżki więc konieczne do zaliczenia całości)
-utwórz funkcję, lifePhase(), która na podstawie liczby age, as zwróci opisowy wiek.
-Schemat: 0-3 'baby' 4-12 'child' 13-19 'teen' 20-64 'adult' 65-140 'senior citizen' jeśli liczba jest mniejsza od 0 lub większa od 140 - 'This is not a valid age'
-Czasami przy takich rzeczach korzystam z podpowiedzi i zamiast pisać coś prostego wolę to skopiować i wkleić
-Tym razem hint to:]]></description>
 </item></channel>
 </rss>
