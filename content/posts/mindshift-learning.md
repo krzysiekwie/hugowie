@@ -10,7 +10,7 @@ categories:
   # - hugo
   # - React
   - in English
-description: "Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential - notes from week 1"
+description: "Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential - notes from the course"
 tags:
   # - bash
   # - boilerplate
@@ -35,7 +35,7 @@ tags:
 by McMaster University
 [on Coursera](https://www.coursera.org/learn/mindshift/home/welcome)
 
-## Week 1
+## Part 1
 
 ### The unexpected assets from your past--and breaking through initial feelings of incompetence
 
@@ -48,7 +48,7 @@ As far as apps go, I'm used to capturing notes in markdown but prefer to diagram
 
 ### Your challenge
 
-By signing up for Mindshift, you’ve already taken the first step towards making meaningful changes to the way you think, learn, and live. These kind of changes involve breaking through unique personal challenges you face in these areas. So before moving on to Week 2, take a minute to reflect on one or more specific challenges you hope this course will help you break through, and share this with your fellow learners. In the final week, we’ll come back to this point and ask you to share how your breakthrough journey has gone so far! You can help inspire us all!
+By signing up for Mindshift, you’ve already taken the first step towards making meaningful changes to the way you think, learn, and live. These kind of changes involve breaking through unique personal challenges you face in these areas. So before moving on to week 2, take a minute to reflect on one or more specific challenges you hope this course will help you break through, and share this with your fellow learners. In the final week, we’ll come back to this point and ask you to share how your breakthrough journey has gone so far! You can help inspire us all!
 
 I'm taking part in a learn-to-code challenge. For around 30 years I've been tinkering with code in various areas but always treated that as a hobby and only challenged myself when I had a problem I needed to solve. In other words I've been staying in my comfort zone and only learned new skills/ languages/ framework if they were coming easy to me. What I'm hoping to do with the help of this course is to both broaden and deepen my passion for coding into the areas and to the level that is truly challenging and discouraging. I'm hoping to push my limits in serverside node & python, data analysis (maths and statistics) and possibly also general (more academic) CS.
 
@@ -68,4 +68,4 @@ and to be more specific, one particular aspect of it: "who you hang out with". I
 
 In the future I am planning to increase my circle of study buddies (or study group) for this course and others either by using the Coursera forums or introducing people in my social circles to this course. Several weeks ago I've set up a mini-website for course notes at krzysiekwie.github.io and I'm using it as a hub for my learning connections. If you're reading this and want to connect and learn together (either in this course or others) get in touch with me.
 
-[Week 2]({{< ref "mindshift-learning-2.md" >}})
+[Part 2]({{< ref "mindshift-learning-2.md" >}})

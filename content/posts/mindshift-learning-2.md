@@ -1,5 +1,5 @@
 ---
-title: "Mindshift, a course on learning - week 2"
+title: "Mindshift, a course on learning - part 2"
 date: 2020-06-01 #YYYY-MM-DD(TT18:36:41+02:00)
 draft: false
 categories:
@@ -10,7 +10,7 @@ categories:
   # - hugo
   # - React
   - in English
-description: "Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential - notes from week 2"
+description: "Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential - notes from the course"
 tags:
   # - bash
   # - boilerplate
@@ -35,9 +35,9 @@ tags:
 by McMaster University
 [on Coursera](https://www.coursera.org/learn/mindshift/home/welcome)
 
-[Week 1]({{< ref "mindshift-learning.md" >}})
+[Part 1]({{< ref "mindshift-learning.md" >}})
 
-## Week 2
+## Part 2
 
 ### Advantage of poor memory
 
@@ -123,4 +123,4 @@ have psychological trust and respect, feeling comfortable being themselves, and 
 increases positive social behaviours
 low levels of serotonin can trigger violent behaviours. Inmates for violent crimes have lowest serotonin levels across population
 
-[Week 3]({{< ref "mindshift-learning-3.md" >}})
+[Part 3]({{< ref "mindshift-learning-3.md" >}})
