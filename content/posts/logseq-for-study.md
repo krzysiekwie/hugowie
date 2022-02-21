@@ -1,5 +1,5 @@
 ---
-title: "Flashcards in Logseq"
+title: "Fiszki w Logseq"
 date: 2021-12-21 #YYYY-MM-DD(TT18:36:41+02:00)
 draft: false
 categories:
