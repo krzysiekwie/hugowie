@@ -3,7 +3,21 @@
         <title>Tags - Tag - notes in hugo</title>
         <link>https://krzysiekwie.github.io/hugowie/tags/</link>
         <description>Tags - Tag - notes in hugo</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 25 Oct 2021 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugowie/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 10 Jan 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://krzysiekwie.github.io/hugowie/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>organizacja</title>
+    <link>https://krzysiekwie.github.io/hugowie/tags/organizacja/</link>
+    <pubDate>Mon, 10 Jan 2022 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugowie/tags/organizacja/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>snippets</title>
+    <link>https://krzysiekwie.github.io/hugowie/tags/snippets/</link>
+    <pubDate>Mon, 10 Jan 2022 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://krzysiekwie.github.io/hugowie/tags/snippets/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>git</title>
     <link>https://krzysiekwie.github.io/hugowie/tags/git/</link>
     <pubDate>Mon, 25 Oct 2021 00:00:00 &#43;0000</pubDate>
@@ -46,13 +60,6 @@
     <guid>https://krzysiekwie.github.io/hugowie/tags/course/</guid>
     <description><![CDATA[]]></description>
 </item><item>
-    <title>snippets</title>
-    <link>https://krzysiekwie.github.io/hugowie/tags/snippets/</link>
-    <pubDate>Fri, 22 May 2020 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://krzysiekwie.github.io/hugowie/tags/snippets/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
     <title>bash</title>
     <link>https://krzysiekwie.github.io/hugowie/tags/bash/</link>
     <pubDate>Mon, 18 May 2020 17:37:02 &#43;0200</pubDate>
@@ -65,13 +72,6 @@
     <pubDate>Mon, 18 May 2020 17:37:02 &#43;0200</pubDate>
     <author>Author</author>
     <guid>https://krzysiekwie.github.io/hugowie/tags/hugo/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>organizacja</title>
-    <link>https://krzysiekwie.github.io/hugowie/tags/organizacja/</link>
-    <pubDate>Mon, 18 May 2020 17:37:02 &#43;0200</pubDate>
-    <author>Author</author>
-    <guid>https://krzysiekwie.github.io/hugowie/tags/organizacja/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
