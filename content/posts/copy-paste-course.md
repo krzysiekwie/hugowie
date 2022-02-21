@@ -1,5 +1,5 @@
 ---
-title: "Open Source po polsku"
+title: "kopiuj wklej ze stackoverflow"
 date: 2021-09-10 #YYYY-MM-DD(TT18:36:41+02:00)
 draft: true #false
 categories:
